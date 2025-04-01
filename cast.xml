@@ -1,139 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
 <tv generator-info-name="MiEPG">
     <channel id="TN">
         <display-name>Todo Noticias</display-name>
+        <lcn>4</lcn>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png"/>
     </channel>
 
+    <programme start="20250429203000 -0300" stop="20250429233000 -0300" channel="TN">
+        <title>Solo una vuelta más</title>
+        <desc>Análisis político y noticias del día.</desc>
+        <category>Noticias</category>
+        <icon src="https://www.artear.com//assets/uploads/programas/82b14-unavueltamas_img-ppal-slide_1920x725.jpg"/>
+        <episode-num system="original-air-date">2024-04-20</episode-num>
+        <rating>
+                <value>R</value>
+        </rating>
+    </programme>
+
     <programme start="20250429233000 -0300" stop="20250430020000 -0300" channel="TN">
-        <title>Solo una vuelta más</title>
-        <desc>Análisis político y noticias del día.</desc>
-        <category>Noticias</category>
-    </programme>
-
-    <programme start="20250430020000 -0300" stop="20250430040000 -0300" channel="TN">
         <title>TN de noche</title>
         <desc>Resumen de noticias nocturnas.</desc>
         <category>Noticias</category>
-    </programme>
-
-    <programme start="20250430040000 -0300" stop="20250430070000 -0300" channel="TN">
-        <title>Re despiertos</title>
-        <desc>Noticias y actualidad para comenzar el día.</desc>
-        <category>Noticias</category>
-    </programme>
-
-    <programme start="20250430070000 -0300" stop="20250430110000 -0300" channel="TN">
-        <title>Tiempo, tránsito y noticias</title>
-        <desc>Información del clima y el tráfico en tiempo real.</desc>
-        <category>Noticias</category>
-    </programme>
-
-    <programme start="20250430110000 -0300" stop="20250430120000 -0300" channel="TN">
-        <title>TN de 6 a 10</title>
-        <desc>Resumen de las noticias de la mañana.</desc>
-        <category>Noticias</category>
-    </programme>
-
-    <programme start="20250430120000 -0300" stop="20250430160000 -0300" channel="TN">
-        <title>TN de 10 a 13</title>
-        <desc>Noticias en vivo con análisis en profundidad.</desc>
-        <category>Noticias</category>
-    </programme>
-
-    <programme start="20250430160000 -0300" stop="20250430180000 -0300" channel="TN">
-        <title>Nuestra tarde</title>
-        <desc>Entrevistas y noticias de la tarde.</desc>
-        <category>Noticias</category>
-    </programme>
-
-    <programme start="20250430180000 -0300" stop="20250430210000 -0300" channel="TN">
-        <title>Hablemos de esto</title>
-        <desc>Análisis de temas de actualidad.</desc>
-        <category>Noticias</category>
-    </programme>
-
-    <programme start="20250430210000 -0300" stop="20250430300000 -0300" channel="TN">
-        <title>Está pasando</title>
-        <desc>Cobertura en vivo de los eventos más importantes.</desc>
-        <category>Noticias</category>
-    </programme>
-
-    <programme start="20250430300000 -0300" stop="20250430310000 -0300" channel="TN">
-        <title>TN Central</title>
-        <desc>El noticiero central con toda la información del día.</desc>
-        <category>Noticias</category>
-    </programme>
-
-    <programme start="20250430310000 -0300" stop="20250430330000 -0300" channel="TN">
-        <title>¿La ves?</title>
-        <desc>Programa de actualidad y debate.</desc>
-        <category>Noticias</category>
-    </programme>
-
-    <programme start="20250430330000 -0300" stop="20250430353000 -0300" channel="TN">
-        <title>Solo una vuelta más</title>
-        <desc>Análisis político y noticias del día.</desc>
-        <category>Noticias</category>
-    </programme>
-
-    <programme start="20250430353000 -0300" stop="20250430380000 -0300" channel="TN">
-        <title>TN de noche</title>
-        <desc>Resumen de noticias nocturnas.</desc>
-        <category>Noticias</category>
-    </programme>
-
-    <programme start="20250430380000 -0300" stop="20250430410000 -0300" channel="TN">
-        <title>Re despiertos</title>
-        <desc>Noticias y actualidad para comenzar el día.</desc>
-        <category>Noticias</category>
-    </programme>
-
-    <programme start="20250430410000 -0300" stop="20250430450000 -0300" channel="TN">
-        <title>Tiempo, tránsito y noticias</title>
-        <desc>Información del clima y el tráfico en tiempo real.</desc>
-        <category>Noticias</category>
-    </programme>
-
-    <programme start="20250430450000 -0300" stop="20250430460000 -0300" channel="TN">
-        <title>TN de 6 a 10</title>
-        <desc>Resumen de las noticias de la mañana.</desc>
-        <category>Noticias</category>
-    </programme>
-
-    <programme start="20250430460000 -0300" stop="20250430500000 -0300" channel="TN">
-        <title>TN de 10 a 13</title>
-        <desc>Noticias en vivo con análisis en profundidad.</desc>
-        <category>Noticias</category>
-    </programme>
-
-    <programme start="20250430500000 -0300" stop="20250430520000 -0300" channel="TN">
-        <title>Nuestra tarde</title>
-        <desc>Entrevistas y noticias de la tarde.</desc>
-        <category>Noticias</category>
-    </programme>
-
-    <programme start="20250430520000 -0300" stop="20250430550000 -0300" channel="TN">
-        <title>Hablemos de esto</title>
-        <desc>Análisis de temas de actualidad.</desc>
-        <category>Noticias</category>
-    </programme>
-
-    <programme start="20250430550000 -0300" stop="20250430580000 -0300" channel="TN">
-        <title>Está pasando</title>
-        <desc>Cobertura en vivo de los eventos más importantes.</desc>
-        <category>Noticias</category>
-    </programme>
-
-    <programme start="20250430580000 -0300" stop="20250430600000 -0300" channel="TN">
-        <title>TN Central</title>
-        <desc>El noticiero central con toda la información del día.</desc>
-        <category>Noticias</category>
-    </programme>
-
-    <programme start="20250430600000 -0300" stop="20250430620000 -0300" channel="TN">
-        <title>¿La ves?</title>
-        <desc>Programa de actualidad y debate.</desc>
-        <category>Noticias</category>
+        <icon src="https://www.artear.com//assets/uploads/programas/3153a-ep_miniaturas_310x157.jpg"/>
+        <episode-num system="original-air-date">2023-07-10</episode-num>
+        <rating>
+                <value>R</value>
+        </rating>
     </programme>
 </tv>
