@@ -7,41 +7,158 @@
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png"/>
     </channel>
 
-    <!-- Día 1 de abril -->
-    <programme start="20250401203000 -0300" stop="20250401233000 -0300" channel="TN">
+    <programme start="20250331213000 -0300" stop="20250331230000 -0300" channel="TN">
         <title>Solo una vuelta más</title>
-        <desc>Análisis político y noticias del día.</desc>
+        <desc>SOLO UNA VUELTA MÁS es un programa de opinión y debate de los temas de actualidad, donde la palabra circula y hay lugar para profundizar la escucha y el análisis. SOLO UNA VUELTA MÁS propone una conversación seria sobre los temas que nos preocupan, pero sin perder el humor.</desc>
         <category>Noticias</category>
-        <icon src="https://www.artear.com/assets/uploads/programas/82b14-unavueltamas_img-ppal-slide_1920x725.jpg"/>
-        <episode-num system="original-air-date">2025-04-01</episode-num>
+        <icon src="https://web-bev.telecentro.net.ar/static/images/epg/spa/228/128/e/8/9/e/c/0/4/5/d/f/a/f/0/3/9/6/7/3/0/5/5/f/2/3/c/6/a/b/0/6/e/9/7/9/a/f/3/a/9/7/7/5/2/7/0/a/e/8/3/2/9/9/b/8/8/3/7/3/7/8/8/4/d/a/a854bb2337dfee087576ee0c69c08cf0ea4c0c614a8968517c3ebb8adab49eb2"/>
         <rating><value>R</value></rating>
     </programme>
-    <programme start="20250401233000 -0300" stop="20250402020000 -0300" channel="TN">
+    <programme start="20250331230000 -0300" stop="20250401010000 -0300" channel="TN">
         <title>TN de noche</title>
-        <desc>Resumen de noticias nocturnas.</desc>
+        <desc>TN de noche</desc>
         <category>Noticias</category>
-        <icon src="https://www.artear.com/assets/uploads/programas/3153a-ep_miniaturas_310x157.jpg"/>
-        <episode-num system="original-air-date">2025-04-01</episode-num>
+        <icon src="https://web-bev.telecentro.net.ar/static/images/epg/spa/228/128/e/8/9/e/c/0/4/5/d/f/a/f/0/3/9/6/7/3/0/5/5/f/2/3/c/6/a/b/0/6/e/9/7/9/a/f/3/a/9/7/7/5/2/7/0/a/e/8/3/2/9/9/b/8/8/3/7/3/7/8/8/4/d/a/c7b25c0b02931cdc9b83d8852a2c5ec0873f915362c10ef97ef2f1b0bbc38ec7"/>
         <rating><value>R</value></rating>
     </programme>
-
-    <!-- Día 2 de abril -->
-    <programme start="20250402203000 -0300" stop="20250402233000 -0300" channel="TN">
+    <programme start="20250401010000 -0300" stop="20250401050000 -0300" channel="TN">
+        <title>Re despiertos</title>
+        <desc>En vivo de 1 a 5. Fer Molinero y Guido Martínez están de 1 a 5 con vos para hablar de lo que pasó, lo que está pasando y lo que se viene antes de que amanezca.El primer programa cross media con las últimas tendencias en redes sociales, la data de los principales portales y cámaras web en distintas partes del mundo. Además, habrá música, (+)</desc>
+        <category>Noticias</category>
+        <icon src="https://web-bev.telecentro.net.ar/static/images/epg/spa/228/128/e/8/9/e/c/0/4/5/d/f/a/f/0/3/9/6/7/3/0/5/5/f/2/3/c/6/a/b/0/6/e/9/7/9/a/f/3/a/9/7/7/5/2/7/0/a/e/8/3/2/9/9/b/8/8/3/7/3/7/8/8/4/d/a/165e0c19ecc15f59b012f4913a6303973bccbfc4359c34000aaeffb711a695cb"/>
+        <rating><value>R</value></rating>
+    </programme>
+    <programme start="20250401050000 -0300" stop="20250401060000 -0300" channel="TN">
+        <title>Tiempo tránsito y noticias</title>
+        <desc>Tiempo tránsito y noticias</desc>
+        <category>Noticias</category>
+        <icon src="https://web-bev.telecentro.net.ar/static/images/epg/spa/228/128/e/8/9/e/c/0/4/5/d/f/a/f/0/3/9/6/7/3/0/5/5/f/2/3/c/6/a/b/0/6/e/9/7/9/a/f/3/a/9/7/7/5/2/7/0/a/e/8/3/2/9/9/b/8/8/3/7/3/7/8/8/4/d/a/d34a096ea5a66b9dcab67e4d2eb3059bd5fc4d1d3ef4525c7597fea0ebc8662d"/>
+        <rating><value>R</value></rating>
+    </programme>
+    <programme start="20250401060000 -0300" stop="20250401100000 -0300" channel="TN">
+        <title>TN de 6 a 10</title>
+        <desc>TN de 6 a 10</desc>
+        <category>Noticias</category>
+        <icon src="https://web-bev.telecentro.net.ar/static/images/epg/spa/228/128/e/8/9/e/c/0/4/5/d/f/a/f/0/3/9/6/7/3/0/5/5/f/2/3/c/6/a/b/0/6/e/9/7/9/a/f/3/a/9/7/7/5/2/7/0/a/e/8/3/2/9/9/b/8/8/3/7/3/7/8/8/4/d/a/44c8b8ac1e669a94a2d5ffa987cade7da904e910738971e75a3a60c305032394"/>
+        <rating><value>R</value></rating>
+    </programme>
+    <programme start="20250401100000 -0300" stop="20250401130000 -0300" channel="TN">
+        <title>TN de 10 a 13</title>
+        <desc>La segunda mañana informativa de TN con la conducción de Guillermo Lobo y Lorena Maciel. De lunes a viernes, con todas las noticias del día y móviles en vivo desde el lugar de los hechos. Además, la columna especial de Mario Mactas y su análisis de la actualidad.</desc>
+        <category>Noticias</category>
+        <icon src="https://web-bev.telecentro.net.ar/static/images/epg/spa/228/128/e/8/9/e/c/0/4/5/d/f/a/f/0/3/9/6/7/3/0/5/5/f/2/3/c/6/a/b/0/6/e/9/7/9/a/f/3/a/9/7/7/5/2/7/0/a/e/8/3/2/9/9/b/8/8/3/7/3/7/8/8/4/d/a/e89ec045dfaf039673055f23c6ab06e979af3a9775270ae83299b883737884da"/>
+        <rating><value>R</value></rating>
+    </programme>
+    <programme start="20250401130000 -0300" stop="20250401150000 -0300" channel="TN">
+        <title>Nuestra tarde</title>
+        <desc>Nuestra Tarde, un ciclo totalmente nuevo. Dominique Metzger te acompaña durante tres horas con información, opinión, humor, columnistas, pero también con una manera diferente de atravesar los temas más calientes del momento.</desc>
+        <category>Noticias</category>
+        <icon src="https://web-bev.telecentro.net.ar/static/images/epg/spa/228/128/e/8/9/e/c/0/4/5/d/f/a/f/0/3/9/6/7/3/0/5/5/f/2/3/c/6/a/b/0/6/e/9/7/9/a/f/3/a/9/7/7/5/2/7/0/a/e/8/3/2/9/9/b/8/8/3/7/3/7/8/8/4/d/a/607325d233e91ecc82d42dcb5c2985b6d27f130bfe0701d246a9273c37500694"/>
+        <rating><value>R</value></rating>
+    </programme>
+    <programme start="20250401150000 -0300" stop="20250401170000 -0300" channel="TN">
+        <title>Hablemos de esto</title>
+        <desc>Hablemos de esto</desc>
+        <category>Noticias</category>
+        <icon src="https://web-bev.telecentro.net.ar/static/images/epg/spa/228/128/e/8/9/e/c/0/4/5/d/f/a/f/0/3/9/6/7/3/0/5/5/f/2/3/c/6/a/b/0/6/e/9/7/9/a/f/3/a/9/7/7/5/2/7/0/a/e/8/3/2/9/9/b/8/8/3/7/3/7/8/8/4/d/a/866fabe590faccc52200bd4b57462ee0c254a8ef3128a7ba565a5b9ae75e8b89"/>
+        <rating><value>R</value></rating>
+    </programme>
+    <programme start="20250401170000 -0300" stop="20250401180000 -0300" channel="TN">
+        <title>Está pasando</title>
+        <desc>Segmento de noticias de la tarde con la conducción de Sandra Borghi y Pepe Gil Vidal. Se trata de un noticiero informativo con todo lo que tenés que saber para volver a casa; el tránsito, clima, cortes.</desc>
+        <category>Noticias</category>
+        <icon src="https://web-bev.telecentro.net.ar/static/images/epg/spa/228/128/e/8/9/e/c/0/4/5/d/f/a/f/0/3/9/6/7/3/0/5/5/f/2/3/c/6/a/b/0/6/e/9/7/9/a/f/3/a/9/7/7/5/2/7/0/a/e/8/3/2/9/9/b/8/8/3/7/3/7/8/8/4/d/a/2b1fe010404852dac88dd7dcda7ae3c803e843d215b95876f09239430802d705"/>
+        <rating><value>R</value></rating>
+    </programme>
+    <programme start="20250401180000 -0300" stop="20250401200000 -0300" channel="TN">
+        <title>TN Central</title>
+        <desc>De 18 a 20, dos horas de noticias, con el resumen completo de los temas que impactaron en el día y el anticipo de los títulos de los diarios del día siguiente. Todo lo que ocurrió en el país y en el mundo. Móviles en vivo para saber qué está pasando al instante.</desc>
+        <category>Noticias</category>
+        <icon src="https://web-bev.telecentro.net.ar/static/images/epg/spa/228/128/e/8/9/e/c/0/4/5/d/f/a/f/0/3/9/6/7/3/0/5/5/f/2/3/c/6/a/b/0/6/e/9/7/9/a/f/3/a/9/7/7/5/2/7/0/a/e/8/3/2/9/9/b/8/8/3/7/3/7/8/8/4/d/a/272a16a607b8c47ffe5234953cbb786667918c29e30bfb7f00b27ac0f9fe2d94"/>
+        <rating><value>R</value></rating>
+    </programme>
+    <programme start="20250401200000 -0300" stop="20250401213000 -0300" channel="TN">
+        <title>¿La ves?</title>
+        <desc>Un programa de opinión y debate de los temas de actualidad, donde la palabra circula y hay lugar para profundizar la escucha y el análisis.</desc>
+        <category>Noticias</category>
+        <icon src="https://web-bev.telecentro.net.ar/static/images/epg/spa/228/128/e/8/9/e/c/0/4/5/d/f/a/f/0/3/9/6/7/3/0/5/5/f/2/3/c/6/a/b/0/6/e/9/7/9/a/f/3/a/9/7/7/5/2/7/0/a/e/8/3/2/9/9/b/8/8/3/7/3/7/8/8/4/d/a/f892cfb6afc0f7e067146bd08c581f37adb558509dd74feed36d02f13f9c4d13"/>
+        <rating><value>R</value></rating>
+    </programme>
+    <programme start="20250401213000 -0300" stop="20250401230000 -0300" channel="TN">
         <title>Solo una vuelta más</title>
-        <desc>Análisis político y noticias del día.</desc>
+        <desc>SOLO UNA VUELTA MÁS es un programa de opinión y debate de los temas de actualidad, donde la palabra circula y hay lugar para profundizar la escucha y el análisis. SOLO UNA VUELTA MÁS propone una conversación seria sobre los temas que nos preocupan, pero sin perder el humor.</desc>
         <category>Noticias</category>
-        <icon src="https://www.artear.com/assets/uploads/programas/82b14-unavueltamas_img-ppal-slide_1920x725.jpg"/>
-        <episode-num system="original-air-date">2025-04-02</episode-num>
+        <icon src="https://web-bev.telecentro.net.ar/static/images/epg/spa/228/128/e/8/9/e/c/0/4/5/d/f/a/f/0/3/9/6/7/3/0/5/5/f/2/3/c/6/a/b/0/6/e/9/7/9/a/f/3/a/9/7/7/5/2/7/0/a/e/8/3/2/9/9/b/8/8/3/7/3/7/8/8/4/d/a/a854bb2337dfee087576ee0c69c08cf0ea4c0c614a8968517c3ebb8adab49eb2"/>
         <rating><value>R</value></rating>
     </programme>
-    <programme start="20250402233000 -0300" stop="20250403020000 -0300" channel="TN">
+    <programme start="20250401230000 -0300" stop="20250402010000 -0300" channel="TN">
         <title>TN de noche</title>
-        <desc>Resumen de noticias nocturnas.</desc>
+        <desc>TN de noche</desc>
         <category>Noticias</category>
-        <icon src="https://www.artear.com/assets/uploads/programas/3153a-ep_miniaturas_310x157.jpg"/>
-        <episode-num system="original-air-date">2025-04-02</episode-num>
+        <icon src="https://web-bev.telecentro.net.ar/static/images/epg/spa/228/128/e/8/9/e/c/0/4/5/d/f/a/f/0/3/9/6/7/3/0/5/5/f/2/3/c/6/a/b/0/6/e/9/7/9/a/f/3/a/9/7/7/5/2/7/0/a/e/8/3/2/9/9/b/8/8/3/7/3/7/8/8/4/d/a/261d1005fe5db45f25b13481f886771c4c7c82dccb9fb355649b2d94a3576df4"/>
         <rating><value>R</value></rating>
     </programme>
-
-    <!-- Repetir para los días 3 al 30 de abril... -->
+    <programme start="20250402010000 -0300" stop="20250402050000 -0300" channel="TN">
+        <title>Re despiertos</title>
+        <desc>En vivo de 1 a 5. Fer Molinero y Guido Martínez están de 1 a 5 con vos para hablar de lo que pasó, lo que está pasando y lo que se viene antes de que amanezca.El primer programa cross media con las últimas tendencias en redes sociales, la data de los principales portales y cámaras web en distintas partes del mundo. Además, habrá música, (+)</desc>
+        <category>Noticias</category>
+        <icon src="https://web-bev.telecentro.net.ar/static/images/epg/spa/228/128/e/8/9/e/c/0/4/5/d/f/a/f/0/3/9/6/7/3/0/5/5/f/2/3/c/6/a/b/0/6/e/9/7/9/a/f/3/a/9/7/7/5/2/7/0/a/e/8/3/2/9/9/b/8/8/3/7/3/7/8/8/4/d/a/21f3284b03d38da3b305cee6c3ae52d47152b9a64efdafb79aad9f41014cdae0"/>
+        <rating><value>R</value></rating>
+    </programme>
+    <programme start="20250402050000 -0300" stop="20250402060000 -0300" channel="TN">
+        <title>Tiempo tránsito y noticias</title>
+        <desc>Tiempo tránsito y noticias</desc>
+        <category>Noticias</category>
+        <icon src="https://web-bev.telecentro.net.ar/static/images/epg/spa/228/128/e/8/9/e/c/0/4/5/d/f/a/f/0/3/9/6/7/3/0/5/5/f/2/3/c/6/a/b/0/6/e/9/7/9/a/f/3/a/9/7/7/5/2/7/0/a/e/8/3/2/9/9/b/8/8/3/7/3/7/8/8/4/d/a/d34a096ea5a66b9dcab67e4d2eb3059bd5fc4d1d3ef4525c7597fea0ebc8662d"/>
+        <rating><value>R</value></rating>
+    </programme>
+    <programme start="20250402060000 -0300" stop="20250402100000 -0300" channel="TN">
+        <title>TN de 6 a 10</title>
+        <desc>TN de 6 a 10</desc>
+        <category>Noticias</category>
+        <icon src="https://web-bev.telecentro.net.ar/static/images/epg/spa/228/128/e/8/9/e/c/0/4/5/d/f/a/f/0/3/9/6/7/3/0/5/5/f/2/3/c/6/a/b/0/6/e/9/7/9/a/f/3/a/9/7/7/5/2/7/0/a/e/8/3/2/9/9/b/8/8/3/7/3/7/8/8/4/d/a/44c8b8ac1e669a94a2d5ffa987cade7da904e910738971e75a3a60c305032394"/>
+        <rating><value>R</value></rating>
+    </programme>
+    <programme start="20250402100000 -0300" stop="20250402130000 -0300" channel="TN">
+        <title>TN de 10 a 13</title>
+        <desc>La segunda mañana informativa de TN con la conducción de Guillermo Lobo y Lorena Maciel. De lunes a viernes, con todas las noticias del día y móviles en vivo desde el lugar de los hechos. Además, la columna especial de Mario Mactas y su análisis de la actualidad.</desc>
+        <category>Noticias</category>
+        <icon src="https://web-bev.telecentro.net.ar/static/images/epg/spa/228/128/e/8/9/e/c/0/4/5/d/f/a/f/0/3/9/6/7/3/0/5/5/f/2/3/c/6/a/b/0/6/e/9/7/9/a/f/3/a/9/7/7/5/2/7/0/a/e/8/3/2/9/9/b/8/8/3/7/3/7/8/8/4/d/a/e89ec045dfaf039673055f23c6ab06e979af3a9775270ae83299b883737884da"/>
+        <rating><value>R</value></rating>
+    </programme>
+    <programme start="20250402130000 -0300" stop="20250402150000 -0300" channel="TN">
+        <title>Nuestra tarde</title>
+        <desc>Nuestra Tarde, un ciclo totalmente nuevo. Dominique Metzger te acompaña durante tres horas con información, opinión, humor, columnistas, pero también con una manera diferente de atravesar los temas más calientes del momento.</desc>
+        <category>Noticias</category>
+        <icon src="https://web-bev.telecentro.net.ar/static/images/epg/spa/228/128/e/8/9/e/c/0/4/5/d/f/a/f/0/3/9/6/7/3/0/5/5/f/2/3/c/6/a/b/0/6/e/9/7/9/a/f/3/a/9/7/7/5/2/7/0/a/e/8/3/2/9/9/b/8/8/3/7/3/7/8/8/4/d/a/23b765a7224f8b7df34e2d349d821865747f2e27463efff868e4b1b37808b77d"/>
+        <rating><value>R</value></rating>
+    </programme>
+    <programme start="20250402150000 -0300" stop="20250402170000 -0300" channel="TN">
+        <title>Hablemos de esto</title>
+        <desc>Hablemos de esto</desc>
+        <category>Noticias</category>
+        <icon src="https://web-bev.telecentro.net.ar/static/images/epg/spa/228/128/e/8/9/e/c/0/4/5/d/f/a/f/0/3/9/6/7/3/0/5/5/f/2/3/c/6/a/b/0/6/e/9/7/9/a/f/3/a/9/7/7/5/2/7/0/a/e/8/3/2/9/9/b/8/8/3/7/3/7/8/8/4/d/a/0c7fbb60bd796de39265dcf1e3cd9d53a6f67ca946aa257ac1b3af88e622ae13"/>
+        <rating><value>R</value></rating>
+    </programme>
+    <programme start="20250402170000 -0300" stop="20250402180000 -0300" channel="TN">
+        <title>Está pasando</title>
+        <desc>Segmento de noticias de la tarde con la conducción de Sandra Borghi y Pepe Gil Vidal. Se trata de un noticiero informativo con todo lo que tenés que saber para volver a casa; el tránsito, clima, cortes.</desc>
+        <category>Noticias</category>
+        <icon src="https://web-bev.telecentro.net.ar/static/images/epg/spa/228/128/e/8/9/e/c/0/4/5/d/f/a/f/0/3/9/6/7/3/0/5/5/f/2/3/c/6/a/b/0/6/e/9/7/9/a/f/3/a/9/7/7/5/2/7/0/a/e/8/3/2/9/9/b/8/8/3/7/3/7/8/8/4/d/a/93559833ef3dd01f8aea1fc53b27903a824308c1ab5e99bbb588f5dba97e91a5"/>
+        <rating><value>R</value></rating>
+    </programme>
+    <programme start="20250402180000 -0300" stop="20250402200000 -0300" channel="TN">
+        <title>TN Central</title>
+        <desc>De 18 a 20, dos horas de noticias, con el resumen completo de los temas que impactaron en el día y el anticipo de los títulos de los diarios del día siguiente. Todo lo que ocurrió en el país y en el mundo. Móviles en vivo para saber qué está pasando al instante.</desc>
+        <category>Noticias</category>
+        <icon src="https://web-bev.telecentro.net.ar/static/images/epg/spa/228/128/e/8/9/e/c/0/4/5/d/f/a/f/0/3/9/6/7/3/0/5/5/f/2/3/c/6/a/b/0/6/e/9/7/9/a/f/3/a/9/7/7/5/2/7/0/a/e/8/3/2/9/9/b/8/8/3/7/3/7/8/8/4/d/a/75df22e63e96ed11b784f159c70839bce65f4026346bfd371d8ffefd9dc6bb30"/>
+        <rating><value>R</value></rating>
+    </programme>
+    <programme start="20250402200000 -0300" stop="20250402213000 -0300" channel="TN">
+        <title>¿La ves?</title>
+        <desc>Un programa de opinión y debate de los temas de actualidad, donde la palabra circula y hay lugar para profundizar la escucha y el análisis.</desc>
+        <category>Noticias</category>
+        <icon src="https://web-bev.telecentro.net.ar/static/images/epg/spa/228/128/e/8/9/e/c/0/4/5/d/f/a/f/0/3/9/6/7/3/0/5/5/f/2/3/c/6/a/b/0/6/e/9/7/9/a/f/3/a/9/7/7/5/2/7/0/a/e/8/3/2/9/9/b/8/8/3/7/3/7/8/8/4/d/a/0e3c6c1a6557df3c4f6573ab2ac2b36454fc1a0b5a73d6add9c3a8f248b173ec"/>
+        <rating><value>R</value></rating>
+    </programme>
 </tv>
