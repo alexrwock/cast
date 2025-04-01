@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
-<tv generator-info-name="MiEPG">
+<tv generator-info-name="TVAR">
     <channel id="TN">
         <display-name>Todo Noticias</display-name>
         <lcn>4</lcn>
