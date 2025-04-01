@@ -3,6 +3,7 @@
 <tv generator-info-name="TVAR">
     <channel id="TN">
         <display-name>Todo Noticias</display-name>
+        <lcn>4</lcn>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png"/>
     </channel>
 
