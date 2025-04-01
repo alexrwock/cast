@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MiEPG">
-    <channel id="4TN">
-        <display-name>Todo Noticias</display-name>
+    <channel id="TN">
+        <display-name>ARG</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png"/>
     </channel>
 
