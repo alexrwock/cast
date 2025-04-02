@@ -46,6 +46,7 @@
     <channel id="El Nueve">
         <display-name>El Nueve</display-name>
         <icon src="https://static.wikia.nocookie.net/logopedia/images/d/de/El_Nueve_logo_horizontal_con_wordmark_blanco.svg/revision/latest/scale-to-width-down/1200?cb=20230819040355&amp;path-prefix=es"/>
+    </channel>
 
     <channel id="Telefe">
         <display-name>Telefe</display-name>
