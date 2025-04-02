@@ -9,7 +9,7 @@
     <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="A24">
         <title lang="es">Noticias las 24 horas</title>
         <desc lang="es">A24 es un espacio con informes y todos los detalles de las novedades exclusivas de la actualidad. La audiencia podrá conocer los acontecimientos de relevancia de la jornada y el análisis de los periodistas al respecto donde se incluyen temas de actualidad, policiales, economía, música, y más de Argentina y el mundo.</desc>
-    <icon src="https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16015-1639_import.png"/>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGBHidb_QNZq2-zObLAOCbyd8q1aweEoWT7lQ3_VEczFFOhzo5jR4UJNLVJoNZXj5YkEs&usqp=CAU"/>
     </programme>
 
     <channel id="TN">
