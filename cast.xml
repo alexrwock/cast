@@ -9,6 +9,7 @@
     <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="A24">
         <title lang="es">Noticias las 24 horas</title>
         <desc lang="es">A24 es un espacio con informes y todos los detalles de las novedades exclusivas de la actualidad. La audiencia podrá conocer los acontecimientos de relevancia de la jornada y el análisis de los periodistas al respecto donde se incluyen temas de actualidad, policiales, economía, música, y más de Argentina y el mundo.</desc>
+    <icon src="https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16015-1639_import.png"/>
     </programme>
 
     <channel id="TN">
@@ -91,8 +92,8 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <icon src="https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest/scale-to-width-down/1200?cb=20210315130131&amp;path-prefix=es"/>
     </channel>
     <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Net TV">
-        <title lang="es">Programación Net TV</title>
-        <desc lang="es">Contenido variado</desc>
+        <title lang="es">Net TV</title>
+        <desc lang="es">¡Entretenimiento, información, actualidad, estilo de vida y mucho más!</desc>
     </programme>
 
     <channel id="El Trece">
