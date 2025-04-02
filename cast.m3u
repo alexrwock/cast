@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="A24" tvg-name="A24" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2025_02/large.A24_(2025)_svg.png.1876a98c88e68952de541c4c23db9f20.png" group-title="Noticias",A24
+#EXTINF:-1 tvg-id="4 | A24" tvg-name="A24" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2025_02/large.A24_(2025)_svg.png.1876a98c88e68952de541c4c23db9f20.png" group-title="Noticias",A24
 https://delivery.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TN" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN
+#EXTINF:-1 tvg-id="3 | TN" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN
 https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo-c5n.svg/2560px-Logo-c5n.svg.png" group-title="Noticias",C5N
+#EXTINF:-1 tvg-id="5 | C5N" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo-c5n.svg/2560px-Logo-c5n.svg.png" group-title="Noticias",C5N
 https://delivery.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Crónica HD" tvg-name="Crónica HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="Noticias",Crónica HD
+#EXTINF:-1 tvg-id="8 | Crónica HD" tvg-name="Crónica HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="Noticias",Crónica HD
 https://delivery.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve" tvg-name="El Nueve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="Aire",El Nueve
