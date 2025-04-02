@@ -1,37 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="A24" tvg-name="A24" tvg-logo="https://www.a24.com/assets/img/296/header-logo-v2.svg" group-title="Noticias",A24
+#EXTINF:-1 tvg-id="A24" tvg-name="A24" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2025_02/large.A24_(2025)_svg.png.1876a98c88e68952de541c4c23db9f20.png" group-title="Noticias",A24
 https://delivery.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TN" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN
 https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://www.c5n.com/css-custom/326/images/logo-c5n.svg" group-title="Noticias",C5N
-https://delivery.cdn.rcs.net.ar/mnp/el13_hls/track_3_5000/playlist.m3u8
+#EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo-c5n.svg/2560px-Logo-c5n.svg.png" group-title="Noticias",C5N
+https://delivery.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal26" tvg-name="Canal 26" tvg-logo="https://cdn.canal26.com/images/canal26_logo.svg" group-title="Noticias",Canal 26
-https://delivery.cdn.rcs.net.ar/mnp/canal26_hls/track_0_750/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Crónica HD" tvg-name="Crónica HD" tvg-logo="https://www.cronica.com.ar/export/sites/cronica/arte/logos/cr-new-logo.svg_945734937.svg" group-title="Noticias",Crónica HD
+#EXTINF:-1 tvg-id="Crónica HD" tvg-name="Crónica HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="Noticias",Crónica HD
 https://delivery.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="El Nueve" tvg-name="El Nueve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/El_Nueve_logo_horizontal_con_wordmark_blanco.svg/revision/latest/scale-to-width-down/1200?cb=20230819040355&path-prefix=es" group-title="Aire",El Nueve
+#EXTINF:-1 tvg-id="El Nueve" tvg-name="El Nueve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="Aire",El Nueve
 https://delivery.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Aire",Telefe
-https://delivery.cdn.rcs.net.ar/mnp/el13_hls/track_3_5000/playlist.m3u8
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
-#EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest/scale-to-width-down/1200?cb=20210315130131&path-prefix=es" group-title="Publico General",Net TV
+#EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/1200px-Net_TV_logo.png" group-title="Publico General",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="Aire",El Trece
-https://delivery.cdn.rcs.net.ar/mnp/el13_hls/track_3_5000/playlist.m3u8
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="Ciudad Magazine" tvg-name="Ciudad Magazine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="Publico General",Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-
-#EXTINF:-1 tvg-id="CNÑ" tvg-name="CNÑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/2560px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Noticias",CNÑ
-https://delivery.cdn.rcs.net.ar/mnp/cnne_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IP" tvg-name="IP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Informaci%C3%B3n_Periodistica_%282020%29.png/1200px-Informaci%C3%B3n_Periodistica_%282020%29.png" group-title="Noticias",IP
 https://is-tucuman.cdn.rcs.net.ar/mnp/ip_hls/playlist.m3u8
@@ -39,7 +33,7 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/ip_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGJSsdtCHKfwtj-og-p16eatHzRsV8Y3h7x6G-wZ9IBSz_c_sIQ5QKJPdGalbozZsOzAp0dA38KTRXFXofqJJoNEr4mby9-Xu1Kxsev6BAFMK8y76lCuNSWb0d3EDIGdWJ0UaILxIXx7w/s1600/canalrural-2016.png" group-title="Noticias",Canal Rural
 https://delivery.cdn.rcs.net.ar/mnp/rural_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DeporTV" tvg-name="DeporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/1200px-DeporTV_%282020_Logo_oficial%29.png" group-title="Deportes",DeporTV
+#EXTINF:-1 tvg-id="DeporTV" tvg-name="DeporTV" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_07/g4371.png.3be1545549a870a5c7148aa4436a3f9b.png" group-title="Deportes",DeporTV
 https://delivery.cdn.rcs.net.ar/mnp/dxtv_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="El Garage TV" tvg-name="El Garage TV" tvg-logo="https://comunidadnautica.com/wp-content/uploads/2021/04/Logotipo-GARAGE-TV-ALTA.png" group-title="Deportes",El Garage TV
@@ -48,7 +42,7 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/garage_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Turbo" tvg-name="Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="Deportes",Turbo
 https://is-tucuman.cdn.rcs.net.ar/mnp/dsc_turbo_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/AnE-White-Small-1.png.webp" group-title="Reality",A&E
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih2Ymyf1xKelHJKPrC-1JWZTqDcHbICpetyL8tMpd34s8v9gE39feXh3v0QdbD4Rsp8PNj-JySFq_Ips4bOjb1rEurohhSqwQspZltGJL9H8FpI9wqdiJgO1X5NDlRbJ-iHnzKAiLftr8/s1600/AE_SE_ORIGINAL_logo.png" group-title="Reality",A&E
 https://is-tucuman.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AdultSwim Junior" tvg-name="AdultSwim Junior" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a46d7d8-d8e1-497a-9b13-3e452d07e286/degxqhq-bd863f7d-79db-425f-9e39-d8ef1943b80e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJhNDZkN2Q4LWQ4ZTEtNDk3YS05YjEzLTNlNDUyZDA3ZTI4NlwvZGVneHFocS1iZDg2M2Y3ZC03OWRiLTQyNWYtOWUzOS1kOGVmMTk0M2I4MGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZOJC5gaRoz7jpCTtjy4qbVFwrV690O743LtU0L4qmDc" group-title="Familia",AdultSwim Junior
@@ -57,16 +51,16 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CartoonNetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Familia",CartoonNetwork
 https://delivery.cdn.rcs.net.ar/mnp/cartoon_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png" group-title="Familia",Disney Channel
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBZmnvraTbHH8KdukLBiNqY0hTWYAEHsT3EIaFicsIzOTU25mGDKe0HADWrk4rD4lTsg8iqW99qn_LraMaaM03T4FzbwvsQuND5g5jxESrWWu_xqTRQEXqg7WgtlzFzY0qa04g2RyPt7uB/s400/Disneychannellogosmartphone.png" group-title="Familia",Disney Channel
 https://is-tucuman.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/09/Nickelodeon-Logo.png" group-title="Familia",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://crystalpng.com/wp-content/uploads/2024/09/Nickelodeon-logo-png-file.png" group-title="Familia",Nickelodeon
 https://is-tucuman.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BabyTV" tvg-name="BabyTV" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a0502781-20d0-4a44-a630-87a7cc66de93/df7cd81-776397e6-676d-4802-badf-bcdeef9b35df.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EwNTAyNzgxLTIwZDAtNGE0NC1hNjMwLTg3YTdjYzY2ZGU5M1wvZGY3Y2Q4MS03NzYzOTdlNi02NzZkLTQ4MDItYmFkZi1iY2RlZWY5YjM1ZGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.m0zqMUKozA2FAOS5wq4VUR6IzGdx7XzhoCwOh6Fpv5Y" group-title="Familia",BabyTV
 https://is-tucuman.cdn.rcs.net.ar/mnp/babytv_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/f0/Cartoonito_Logo_2017.png" group-title="Familia",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15081ebe-a86a-4d6b-9fc9-23d9d799b1a1/dftmwp8-8a21a25c-5d5b-4f2a-a12a-8b51584fed4e.png/v1/fill/w_1280,h_417/new_cartoonito_logo_by_abfan21_dftmwp8-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDE3IiwicGF0aCI6IlwvZlwvMTUwODFlYmUtYTg2YS00ZDZiLTlmYzktMjNkOWQ3OTliMWExXC9kZnRtd3A4LThhMjFhMjVjLTVkNWItNGYyYS1hMTJhLThiNTE1ODRmZWQ0ZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.RA8ZK18Zamsl3uyYcqwYJkT-H-ptwwY1_JdaFOeK7K4" group-title="Familia",Cartoonito
 https://is-tucuman.cdn.rcs.net.ar/mnp/boomerang_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/1280px-Disney_Jr._2024.svg.png" group-title="Familia",Disney Junior
@@ -75,13 +69,13 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Nick Junior" tvg-name="Nick Junior" tvg-logo="https://static.wikia.nocookie.net/logofanon2/images/3/34/Nick_Jr._%282009%29.svg/revision/latest/scale-to-width-down/985?cb=20240215124622" group-title="Familia",Nick Junior
 https://is-tucuman.cdn.rcs.net.ar/mnp/nickjr_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="Publico General",Comedy Central
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/small.Comedy-Central-Symbol-removebg-preview.png.eed7750670c949fac6e23aa838bf0bff.png" group-title="Publico General",Comedy Central
 https://delivery.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="Publico General",Lifetime
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://cdn.blog.tdstelecom.com/wp-content/uploads/2023/08/Lifetime-logo-square.png" group-title="Publico General",Lifetime
 https://is-tucuman.cdn.rcs.net.ar/mnp/lifetime_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Elgourmet_2013.svg/revision/latest/scale-to-width-down/200?cb=20230410230609&path-prefix=es" group-title="Publico General",El Gourmet
+#EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-logo="https://bessersolutions.com/img/canales_web/variedades/EL%20GOURMET.png" group-title="Publico General",El Gourmet
 https://is-tucuman.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Publico General",HGTV
@@ -93,7 +87,7 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/maschic_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="TCL" tvg-name="TCL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/1200px-TLC_logo_%282023%29.svg.png" group-title="Publico General",TCL
 https://is-tucuman.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://etiqmedia.com/wp-content/uploads/2024/05/amc-w.png" group-title="Publico General",AMC
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://1000logos.net/wp-content/uploads/2023/05/AMC-TV-Logo-2013.png" group-title="Publico General",AMC
 https://is-tucuman.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png" group-title="Publico General",AXN
@@ -102,13 +96,13 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1280px-FX_Logo_2023.svg.png" group-title="Publico General",FX
 https://is-tucuman.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CineCanal" tvg-name="CineCanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Peliculas",CineCanal
+#EXTINF:-1 tvg-id="CineCanal" tvg-name="CineCanal" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.cinecanal.png.7f0a95af5b0394198df0e6ed7b757ba5.png" group-title="Peliculas",CineCanal
 https://is-tucuman.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://www.pngall.com/wp-content/uploads/15/HBO-Logo-PNG-Image.png" group-title="Peliculas",HBO
 https://is-tucuman.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="Peliculas",HBO 2
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://www.hteronet.ba/storage/upload/popis_kanala/hbo2_logo_162143.png" group-title="Peliculas",HBO 2
 https://is-tucuman.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="Peliculas y Series",Paramount
@@ -132,7 +126,7 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="Peliculas y Series",Universal TV
 https://is-tucuman.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Peliculas y Series",USA
+#EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/1200px-USA_Network_2025_logo.svg.png" group-title="Peliculas y Series",USA
 https://is-tucuman.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro" tvg-name="Encuentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/1200px-Logo_del_canal_Encuentro.svg.png" group-title="Documental",Encuentro
@@ -141,7 +135,7 @@ https://delivery.cdn.rcs.net.ar/mnp/encuentro_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://todaystelevisionpr.com/sites/local-satellitetv.com/pages/images/logo-ch-history.png" group-title="Documental",History
 https://is-tucuman.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="National Geogrphic" tvg-name="National Geogrphic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Documental",National Geogrphic
+#EXTINF:-1 tvg-id="National Geogrphic" tvg-name="National Geogrphic" tvg-logo="https://images.squarespace-cdn.com/content/v1/5fe205754adefb5fb853b9da/1608737011338-66AFTSTY6BL65YWO2SV1/Nat-Geo-logo.png" group-title="Documental",National Geogrphic
 https://is-tucuman.cdn.rcs.net.ar/mnp/natgeohd_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="Documental",Discovery
@@ -150,5 +144,5 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png" group-title="Documental",Discovery World
 https://delivery.cdn.rcs.net.ar/mnp/disc_world_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.png" group-title="Documental",Discovery Science
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/f/f6/Discovery_Science_%282011%29_%28Stacked%29.png" group-title="Documental",Discovery Science
 https://is-tucuman.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
