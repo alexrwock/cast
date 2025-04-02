@@ -7,8 +7,8 @@
         <icon src="https://www.a24.com/assets/img/296/header-logo-v2.svg"/>
     </channel>
     <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="A24">
-        <title lang="es">Programación A24</title>
-        <desc lang="es">Noticias las 24 horas</desc>
+        <title lang="es">Noticias las 24 horas</title>
+        <desc lang="es">A24 es un espacio con informes y todos los detalles de las novedades exclusivas de la actualidad. La audiencia podrá conocer los acontecimientos de relevancia de la jornada y el análisis de los periodistas al respecto donde se incluyen temas de actualidad, policiales, economía, música, y más de Argentina y el mundo.</desc>
     </programme>
 
     <channel id="TN">
@@ -16,8 +16,8 @@
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png"/>
     </channel>
     <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="TN">
-        <title lang="es">Programación TN</title>
-        <desc lang="es">Noticias las 24 horas</desc>
+        <title lang="es">TN</title>
+        <desc lang="es">Todo Noticias. 24 horas de periodismo independiente en televisión. En 1993 Artear lanzó Todo Noticias esta señal informativa que se ha convertido en el líder de Noticias. Sinónimo de información actualizada, confiable, e independiente, TN está presente en todo el territorio nacional gracias a su más completa cobertura.</desc>
     </programme>
 
     <channel id="C5N">
@@ -25,8 +25,8 @@
         <icon src="https://www.c5n.com/css-custom/326/images/logo-c5n.svg"/>
     </channel>
     <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="C5N">
-        <title lang="es">Programación C5N</title>
-        <desc lang="es">Noticias las 24 horas</desc>
+        <title lang="es">C5N</title>
+        <desc lang="es">C5N EN VIVO | Toda la información en un solo lugar - Seguí la transmisión las 24 horas · Lo ÚLTIMO en C5N · ARGENZUELA · DURO DE DOMAR · TELEVISIÓN REGISTRADA.</desc>
     </programme>
 
     <channel id="Canal26">
@@ -34,8 +34,8 @@
         <icon src="https://cdn.canal26.com/images/canal26_logo.svg"/>
     </channel>
     <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Canal26">
-        <title lang="es">Programación Canal 26</title>
-        <desc lang="es">Noticias las 24 horas</desc>
+        <title lang="es">Canal 26</title>
+        <desc lang="es">Noticias las 24 horas. Canal 26 ofrece las últimas novedades de Argentina y el mundo: economía, política, turismo, horóscopo, Planeta, deportes, espectáculos, tecnología y más.</desc>
     </programme>
 
     <channel id="Crónica HD">
@@ -44,16 +44,7 @@
     </channel>
     <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Crónica HD">
         <title lang="es">Programación Crónica HD</title>
-        <desc lang="es">Noticias las 24 horas</desc>
-    </programme>
-
-    <channel id="CNÑ">
-        <display-name>CNÑ</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/2560px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png"/>
-    </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="CNÑ">
-        <title lang="es">Programación CNÑ</title>
-        <desc lang="es">Noticias las 24 horas</desc>
+        <desc lang="es">El canal número 1 de noticias de Argentina. Creador de un estilo informativo único con sus clásicas placas rojas, siempre firme junto al pueblo.</desc>
     </programme>
 
     <channel id="IP">
@@ -61,8 +52,8 @@
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Informaci%C3%B3n_Periodistica_%282020%29.png/1200px-Informaci%C3%B3n_Periodistica_%282020%29.png"/>
     </channel>
     <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="IP">
-        <title lang="es">Programación IP</title>
-        <desc lang="es">Noticias las 24 horas</desc>
+        <title lang="es">IP | Información Periodistica</title>
+        <desc lang="es">IP es un espacio para todas las voces. Ofrecemos una mirada federal y la información en el centro para que saques tus propias conclusiones.</desc>
     </programme>
 
     <channel id="Canal Rural">
@@ -70,8 +61,8 @@
         <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGJSsdtCHKfwtj-og-p16eatHzRsV8Y3h7x6G-wZ9IBSz_c_sIQ5QKJPdGalbozZsOzAp0dA38KTRXFXofqJJoNEr4mby9-Xu1Kxsev6BAFMK8y76lCuNSWb0d3EDIGdWJ0UaILxIXx7w/s1600/canalrural-2016.png"/>
     </channel>
     <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Canal Rural">
-        <title lang="es">Programación Canal Rural</title>
-        <desc lang="es">Contenido rural y agropecuario</desc>
+        <title lang="es">Canal Rural</title>
+        <desc lang="es">Contenido rural y agropecuario. Canal Rural es la única señal de cable vía satélite de América Latina dedicada al sector agropecuario y a la producción agroindustrial y alimenticia.</desc>
     </programme>
 
     <!-- Canales de Aire -->
@@ -80,8 +71,10 @@
         <icon src="https://static.wikia.nocookie.net/logopedia/images/d/de/El_Nueve_logo_horizontal_con_wordmark_blanco.svg/revision/latest/scale-to-width-down/1200?cb=20230819040355&amp;path-prefix=es"/>
     </channel>
     <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="El Nueve">
-        <title lang="es">Programación El Nueve</title>
-        <desc lang="es">Contenido variado</desc>
+        <title lang="es">El Nueve</title>
+        <desc lang="es">Canal 9 de Argentina ¡Sumate! Lo mejor de la programación: Bendita TV, Que Mañana, El Show del Problema, Combate, El Show del Problema.. entre otros ¡Están en YouTube! 
+Canal 9 tiene más de 60 años de historia, por su pantalla pasaron éxitos cómo La extraña Dama, Feliz Domingo para la juventud, Si lo sabe Cante, NueveDiario todos marcaron una época de nuestra cultura argentina. 
+Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu casa haciendo los mejores programas de la televisión.</desc>
     </programme>
 
     <channel id="Telefe">
@@ -90,7 +83,7 @@
     </channel>
     <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Telefe">
         <title lang="es">Programación Telefe</title>
-        <desc lang="es">Contenido variado</desc>
+        <desc lang="es">Telefe es parte de la historia argentina, casi miembro de cada familia. Es líder en la producción y comercialización de contenidos y servicios audiovisuales de Argentina. A través de los años, ha logrado generar una inmensa empatía emocional y un vínculo cercano con su público. Adapta sus variadas producciones a todos los gustos del grupo familiar desde hace más de 25 años. Cuenta buenas historias, lleva alegría y diversión a cada hogar y brinda la mejor información comprometiéndose así, con generar día a día, año a año, los mejores contenidos para toda la familia.</desc>
     </programme>
 
     <channel id="Net TV">
