@@ -6,7 +6,7 @@
         <display-name>A24</display-name>
         <icon src="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2025_02/large.A24_(2025)_svg.png.1876a98c88e68952de541c4c23db9f20.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="A24">
+    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="4 | A24">
         <title lang="es">Noticias las 24 horas</title>
         <desc lang="es">A24 es un espacio con informes y todos los detalles de las novedades exclusivas de la actualidad. La audiencia podrá conocer los acontecimientos de relevancia de la jornada y el análisis de los periodistas al respecto donde se incluyen temas de actualidad, policiales, economía, música, y más de Argentina y el mundo.</desc>
     <icon src="https://i.ytimg.com/vi/TU7NLHt646E/maxresdefault.jpg"/>
@@ -16,7 +16,7 @@
         <display-name>TN</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="TN">
+    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="3 | TN">
         <title lang="es">TN</title>
         <desc lang="es">Todo Noticias. 24 horas de periodismo independiente en televisión. En 1993 Artear lanzó Todo Noticias esta señal informativa que se ha convertido en el líder de Noticias. Sinónimo de información actualizada, confiable, e independiente, TN está presente en todo el territorio nacional gracias a su más completa cobertura.</desc>
     <icon src="https://media.telebajocero.com/p/330c3ea7269d661d18f1ec8a8353b12f/adjuntos/225/imagenes/000/936/0000936994/1200x675/smart/tn-todonoticiasjpg.jpg"/>
@@ -26,7 +26,7 @@
         <display-name>C5N</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo-c5n.svg/2560px-Logo-c5n.svg.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="C5N">
+    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="5 | C5N">
         <title lang="es">C5N</title>
         <desc lang="es">C5N EN VIVO | Toda la información en un solo lugar - Seguí la transmisión las 24 horas · Lo ÚLTIMO en C5N · ARGENZUELA · DURO DE DOMAR · TELEVISIÓN REGISTRADA.</desc>
     <icon src="https://www.diariopopular.com.ar/mrf4u/statics/i/ps/media.diariopopular.com.ar/p/b67a3fe0bb0d009b43d316585463d7f2/adjuntos/143/imagenes/005/225/0005225008/c5njpg.jpg"/>
@@ -36,7 +36,7 @@
         <display-name>Crónica HD</display-name>
         <icon src="https://www.cronica.com.ar/export/sites/cronica/arte/logos/cr-new-logo.svg_945734937.svg"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Crónica HD">
+    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="8 | Crónica HD">
         <title lang="es">Programación Crónica HD</title>
         <desc lang="es">El canal número 1 de noticias de Argentina. Creador de un estilo informativo único con sus clásicas placas rojas, siempre firme junto al pueblo.</desc>
     <icon src="https://vod.magma.qaotic.net/media/posters-live/cronica/cronica.jpg"/>
