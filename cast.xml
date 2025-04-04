@@ -25,7 +25,7 @@ Información de actualidad, política, espectáculos y mucho más.".</desc>
 
     <channel id="3 | TV Pública">
         <display-name>TV Pública</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png"/>
+        <icon src="TV Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png"/>
     </channel>
     <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="3 | TV Pública">
         <title lang="es">TV Pública</title>
@@ -77,7 +77,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
 
     <channel id="8 | LN+">
         <display-name>TN</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png"/>
+        <icon src="https://i.imgur.com/Gj1kqH5.png"/>
     </channel>
     <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="8 | LN+">
         <title lang="es">Todo Noticias</title>
