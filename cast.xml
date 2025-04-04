@@ -25,7 +25,7 @@ Información de actualidad, política, espectáculos y mucho más.".</desc>
 
     <channel id="3 | TV Pública">
         <display-name>TV Pública</display-name>
-        <icon src="TV Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/640px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png"/>
+        <icon src="TV Pública" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.Y2gwMTAwMDAwMDAwMjE0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_700x525.png.5e5a9690e836d24512121cfbc15a2948.png"/>
     </channel>
     <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="3 | TV Pública">
         <title lang="es">TV Pública</title>
