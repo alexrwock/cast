@@ -4,19 +4,19 @@
 #EXTINF:-1 tvg-id="1 | Plex" tvg-name="Plex TVAR" tvg-logo="https://static-00.iconduck.com/assets.00/plex-new-transparent-icon-2048x945-pafhbvdw.png" group-title="Info",Plex TV AR
 /home/plex/Descargas/plex.m3u8
 
-#EXTINF:-1 tvg-id="2 | América" tvg-name="América" tvg-logo="https://i.imgur.com/5GxGeDn.png" group-title="Tv abrierta",América
+#EXTINF:-1 tvg-id="2 | América" tvg-name="América" tvg-logo="https://i.imgur.com/5GxGeDn.png" group-title="Canal de Aire",América
 https://dsr.ride.com.ar/tvmia/an25/chunks.m3u8
 
-#EXTINF:-1 tvg-id="3 | TV Pública" tvg-name="TV Pública" tvg-logo="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/TVP.png" group-title="Aire",TV Pública
+#EXTINF:-1 tvg-id="3 | TV Pública" tvg-name="TV Pública" tvg-logo="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/TVP.png" group-title="Canal de Aire",TV Pública
 https://dsr.ride.com.ar/tvmia/an04/chunks.m3u8
 
-#EXTINF:-1 tvg-id="4 | El Nueve" tvg-name="El Nueve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="Aire",El Nueve
+#EXTINF:-1 tvg-id="4 | El Nueve" tvg-name="El Nueve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="Canal de Aire",El Nueve
 https://delivery.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5 | Telefe" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Aire",Telefe
+#EXTINF:-1 tvg-id="5 | Telefe" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Canal de Aire",Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
-#EXTINF:-1 tvg-id="6 | El Trece" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="Aire",El Trece
+#EXTINF:-1 tvg-id="6 | El Trece" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="Canal de Aire",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="7 | TN" tvg-name="TN" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="Noticias",TN
