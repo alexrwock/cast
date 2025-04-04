@@ -6,7 +6,7 @@
         <display-name>A24</display-name>
         <icon src="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2025_02/large.A24_(2025)_svg.png.1876a98c88e68952de541c4c23db9f20.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="4 | A24">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="4 | A24">
         <title lang="es">Noticias las 24/7</title>
         <desc lang="es">A24 es un espacio con informes y todos los detalles de las novedades exclusivas de la actualidad. La audiencia podrá conocer los acontecimientos de relevancia de la jornada y el análisis de los periodistas al respecto donde se incluyen temas de actualidad, policiales, economía, música, y más de Argentina y el mundo.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_a24-programa-especial_p_m.jpg"/>
@@ -16,7 +16,7 @@
         <display-name>TN</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="3 | TN">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="3 | TN">
         <title lang="es">Todo Noticias</title>
         <desc lang="es">Todo Noticias. 24 horas de periodismo independiente en televisión. En 1993 Artear lanzó Todo Noticias esta señal informativa que se ha convertido en el líder de Noticias. Sinónimo de información actualizada, confiable, e independiente, TN está presente en todo el territorio nacional gracias a su más completa cobertura.</desc>
     <icon src="https://media.telebajocero.com/p/330c3ea7269d661d18f1ec8a8353b12f/adjuntos/225/imagenes/000/936/0000936994/1200x675/smart/tn-todonoticiasjpg.jpg"/>
@@ -26,7 +26,7 @@
         <display-name>C5N</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo-c5n.svg/2560px-Logo-c5n.svg.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="5 | C5N">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="5 | C5N">
         <title lang="es">Canal 5 Noticias</title>
         <desc lang="es">C5N EN VIVO | Toda la información en un solo lugar - Seguí la transmisión las 24 horas · Lo ÚLTIMO en C5N · ARGENZUELA · DURO DE DOMAR · TELEVISIÓN REGISTRADA.</desc>
     <icon src="https://www.diariopopular.com.ar/mrf4u/statics/i/ps/media.diariopopular.com.ar/p/b67a3fe0bb0d009b43d316585463d7f2/adjuntos/143/imagenes/005/225/0005225008/c5njpg.jpg"/>
@@ -36,7 +36,7 @@
         <display-name>Crónica HD</display-name>
         <icon src="https://www.cronica.com.ar/export/sites/cronica/arte/logos/cr-new-logo.svg_945734937.svg"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="8 | Crónica HD">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="8 | Crónica HD">
         <title lang="es">Crónica. Firme Junto al Pueblo</title>
         <desc lang="es">El canal número 1 de noticias de Argentina. Creador de un estilo informativo único con sus clásicas placas rojas, siempre firme junto al pueblo.</desc>
     <icon src="https://vod.magma.qaotic.net/media/posters-live/cronica/cronica.jpg"/>
@@ -46,7 +46,7 @@
         <display-name>IP</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Informaci%C3%B3n_Periodistica_%282020%29.png/1200px-Informaci%C3%B3n_Periodistica_%282020%29.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="IP">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="IP">
         <title lang="es">IP | Información Periodistica</title>
         <desc lang="es">IP es un espacio para todas las voces. Ofrecemos una mirada federal y la información en el centro para que saques tus propias conclusiones.</desc>
     </programme>
@@ -55,7 +55,7 @@
         <display-name>Canal Rural</display-name>
         <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGJSsdtCHKfwtj-og-p16eatHzRsV8Y3h7x6G-wZ9IBSz_c_sIQ5QKJPdGalbozZsOzAp0dA38KTRXFXofqJJoNEr4mby9-Xu1Kxsev6BAFMK8y76lCuNSWb0d3EDIGdWJ0UaILxIXx7w/s1600/canalrural-2016.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Canal Rural">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="Canal Rural">
         <title lang="es">Canal Rural</title>
         <desc lang="es">Contenido rural y agropecuario. Canal Rural es la única señal de cable vía satélite de América Latina dedicada al sector agropecuario y a la producción agroindustrial y alimenticia.</desc>
     </programme>
@@ -65,7 +65,7 @@
         <display-name>El Nueve</display-name>
         <icon src="https://static.wikia.nocookie.net/logopedia/images/d/de/El_Nueve_logo_horizontal_con_wordmark_blanco.svg/revision/latest/scale-to-width-down/1200?cb=20230819040355&amp;path-prefix=es"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="El Nueve">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="El Nueve">
         <title lang="es">El Nueve</title>
         <desc lang="es">Canal 9 de Argentina ¡Sumate! Lo mejor de la programación: Bendita TV, Que Mañana, El Show del Problema, Combate, El Show del Problema.. entre otros ¡Están en YouTube! 
 Canal 9 tiene más de 60 años de historia, por su pantalla pasaron éxitos cómo La extraña Dama, Feliz Domingo para la juventud, Si lo sabe Cante, NueveDiario todos marcaron una época de nuestra cultura argentina. 
@@ -76,7 +76,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>Telefe</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Telefe">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="Telefe">
         <title lang="es">Programación Telefe</title>
         <desc lang="es">Telefe es parte de la historia argentina, casi miembro de cada familia. Es líder en la producción y comercialización de contenidos y servicios audiovisuales de Argentina. A través de los años, ha logrado generar una inmensa empatía emocional y un vínculo cercano con su público. Adapta sus variadas producciones a todos los gustos del grupo familiar desde hace más de 25 años. Cuenta buenas historias, lleva alegría y diversión a cada hogar y brinda la mejor información comprometiéndose así, con generar día a día, año a año, los mejores contenidos para toda la familia.</desc>
     </programme>
@@ -85,7 +85,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>Net TV</display-name>
         <icon src="https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest/scale-to-width-down/1200?cb=20210315130131&amp;path-prefix=es"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Net TV">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="Net TV">
         <title lang="es">Net TV</title>
         <desc lang="es">¡Entretenimiento, información, actualidad, estilo de vida y mucho más!</desc>
     </programme>
@@ -94,7 +94,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>El Trece</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="El Trece">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="El Trece">
         <title lang="es">Programación El Trece</title>
         <desc lang="es">Contenido variado</desc>
     </programme>
@@ -103,7 +103,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>Ciudad Magazine</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Ciudad Magazine">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="Ciudad Magazine">
         <title lang="es">Programación Ciudad Magazine</title>
         <desc lang="es">Contenido variado</desc>
     </programme>
@@ -113,7 +113,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>DeporTV</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/1200px-DeporTV_%282020_Logo_oficial%29.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="DeporTV">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="DeporTV">
         <title lang="es">Programación DeporTV</title>
         <desc lang="es">Deportes las 24 horas</desc>
     </programme>
@@ -122,7 +122,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>El Garage TV</display-name>
         <icon src="https://comunidadnautica.com/wp-content/uploads/2021/04/Logotipo-GARAGE-TV-ALTA.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="El Garage TV">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="El Garage TV">
         <title lang="es">Programación El Garage TV</title>
         <desc lang="es">Contenido automotor</desc>
     </programme>
@@ -131,7 +131,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>Turbo</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Turbo">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="Turbo">
         <title lang="es">Programación Turbo</title>
         <desc lang="es">Contenido automotor</desc>
     </programme>
@@ -141,7 +141,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>AdultSwim Junior</display-name>
         <icon src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a46d7d8-d8e1-497a-9b13-3e452d07e286/degxqhq-bd863f7d-79db-425f-9e39-d8ef1943b80e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJhNDZkN2Q4LWQ4ZTEtNDk3YS05YjEzLTNlNDUyZDA3ZTI4NlwvZGVneHFocS1iZDg2M2Y3ZC03OWRiLTQyNWYtOWUzOS1kOGVmMTk0M2I4MGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZOJC5gaRoz7jpCTtjy4qbVFwrV690O743LtU0L4qmDc"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="AdultSwim Junior">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="AdultSwim Junior">
         <title lang="es">Programación AdultSwim Junior</title>
         <desc lang="es">Dibujos animados</desc>
     </programme>
@@ -150,7 +150,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>CartoonNetwork</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="CartoonNetwork">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="CartoonNetwork">
         <title lang="es">Programación CartoonNetwork</title>
         <desc lang="es">Dibujos animados</desc>
     </programme>
@@ -159,7 +159,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>Disney Channel</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Disney Channel">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="Disney Channel">
         <title lang="es">Programación Disney Channel</title>
         <desc lang="es">Contenido infantil</desc>
     </programme>
@@ -168,7 +168,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>Nickelodeon</display-name>
         <icon src="https://logos-marcas.com/wp-content/uploads/2021/09/Nickelodeon-Logo.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Nickelodeon">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="Nickelodeon">
         <title lang="es">Programación Nickelodeon</title>
         <desc lang="es">Contenido infantil</desc>
     </programme>
@@ -177,7 +177,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>BabyTV</display-name>
         <icon src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a0502781-20d0-4a44-a630-87a7cc66de93/df7cd81-776397e6-676d-4802-badf-bcdeef9b35df.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EwNTAyNzgxLTIwZDAtNGE0NC1hNjMwLTg3YTdjYzY2ZGU5M1wvZGY3Y2Q4MS03NzYzOTdlNi02NzZkLTQ4MDItYmFkZi1iY2RlZWY5YjM1ZGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.m0zqMUKozA2FAOS5wq4VUR6IzGdx7XzhoCwOh6Fpv5Y"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="BabyTV">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="BabyTV">
         <title lang="es">Programación BabyTV</title>
         <desc lang="es">Contenido para bebés</desc>
     </programme>
@@ -186,7 +186,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>Cartoonito</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/it/f/f0/Cartoonito_Logo_2017.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Cartoonito">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="Cartoonito">
         <title lang="es">Programación Cartoonito</title>
         <desc lang="es">Contenido infantil</desc>
     </programme>
@@ -195,7 +195,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>Disney Junior</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/1280px-Disney_Jr._2024.svg.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Disney Junior">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="Disney Junior">
         <title lang="es">Programación Disney Junior</title>
         <desc lang="es">Contenido infantil</desc>
     </programme>
@@ -204,7 +204,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>Nick Junior</display-name>
         <icon src="https://static.wikia.nocookie.net/logofanon2/images/3/34/Nick_Jr._%282009%29.svg/revision/latest/scale-to-width-down/985?cb=20240215124622"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Nick Junior">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="Nick Junior">
         <title lang="es">Programación Nick Junior</title>
         <desc lang="es">Contenido infantil</desc>
     </programme>
@@ -214,7 +214,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>A&amp;E</display-name>
         <icon src="https://www.effectv.com/wp-content/uploads/2021/10/AnE-White-Small-1.png.webp"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="A&amp;E">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="A&amp;E">
         <title lang="es">Programación A&amp;E</title>
         <desc lang="es">Contenido variado</desc>
     </programme>
@@ -223,7 +223,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>Comedy Central</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Comedy Central">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="Comedy Central">
         <title lang="es">Programación Comedy Central</title>
         <desc lang="es">Comedia</desc>
     </programme>
@@ -232,7 +232,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>Lifetime</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Lifetime">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="Lifetime">
         <title lang="es">Programación Lifetime</title>
         <desc lang="es">Contenido variado</desc>
     </programme>
@@ -241,7 +241,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>El Gourmet</display-name>
         <icon src="https://static.wikia.nocookie.net/logopedia/images/c/c9/Elgourmet_2013.svg/revision/latest/scale-to-width-down/200?cb=20230410230609&amp;path-prefix=es"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="El Gourmet">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="El Gourmet">
         <title lang="es">Programación El Gourmet</title>
         <desc lang="es">Programas de cocina</desc>
     </programme>
@@ -250,7 +250,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>HGTV</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="HGTV">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="HGTV">
         <title lang="es">Programación HGTV</title>
         <desc lang="es">Programas de hogar y jardín</desc>
     </programme>
@@ -259,7 +259,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>MásChic</display-name>
         <icon src="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_19439.png.971642e732049e39ad6873b810a7b962.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="MásChic">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="MásChic">
         <title lang="es">Programación MásChic</title>
         <desc lang="es">Contenido de moda y estilo</desc>
     </programme>
@@ -268,7 +268,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>TCL</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/1200px-TLC_logo_%282023%29.svg.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="TCL">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="TCL">
         <title lang="es">Programación TCL</title>
         <desc lang="es">Contenido variado</desc>
     </programme>
@@ -277,7 +277,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>AMC</display-name>
         <icon src="https://etiqmedia.com/wp-content/uploads/2024/05/amc-w.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="AMC">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="AMC">
         <title lang="es">Programación AMC</title>
         <desc lang="es">Películas y series</desc>
     </programme>
@@ -286,7 +286,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>AXN</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="AXN">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="AXN">
         <title lang="es">Programación AXN</title>
         <desc lang="es">Series y películas</desc>
     </programme>
@@ -295,7 +295,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>FX</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1280px-FX_Logo_2023.svg.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="FX">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="FX">
         <title lang="es">Programación FX</title>
         <desc lang="es">Series y películas</desc>
     </programme>
@@ -305,7 +305,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>CineCanal</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="CineCanal">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="CineCanal">
         <title lang="es">Programación CineCanal</title>
         <desc lang="es">Películas</desc>
     </programme>
@@ -314,7 +314,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>HBO</display-name>
         <icon src="https://www.pngall.com/wp-content/uploads/15/HBO-Logo-PNG-Image.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="HBO">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="HBO">
         <title lang="es">Programación HBO</title>
         <desc lang="es">Series y películas</desc>
     </programme>
@@ -323,7 +323,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>HBO 2</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="HBO 2">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="HBO 2">
         <title lang="es">Programación HBO 2</title>
         <desc lang="es">Series y películas</desc>
     </programme>
@@ -332,7 +332,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>Paramount</display-name>
         <icon src="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Paramount">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="Paramount">
         <title lang="es">Programación Paramount</title>
         <desc lang="es">Series y películas</desc>
     </programme>
@@ -341,7 +341,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>Sony</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Sony">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="Sony">
         <title lang="es">Programación Sony</title>
         <desc lang="es">Series y películas</desc>
     </programme>
@@ -350,7 +350,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>Space</display-name>
         <icon src="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Space">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="Space">
         <title lang="es">Programación Space</title>
         <desc lang="es">Ciencia ficción y fantasía</desc>
     </programme>
@@ -359,7 +359,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>Stars Channel</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Stars Channel">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="Stars Channel">
         <title lang="es">Programación Stars Channel</title>
         <desc lang="es">Series y películas</desc>
     </programme>
@@ -368,7 +368,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>TCM</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="TCM">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="TCM">
         <title lang="es">Programación TCM</title>
         <desc lang="es">Películas clásicas</desc>
     </programme>
@@ -377,7 +377,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>TNT Series</display-name>
         <icon src="https://lh3.googleusercontent.com/proxy/fazzgq-apqIaKiY35d0VGK5GKo7esZwhDc8Qq2NgmV_Tvui7bpsCiMjnJBQXDqyVBdYH2n3q3etH7hmAYVMV_zJbBvC6118"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="TNT Series">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="TNT Series">
         <title lang="es">Programación TNT Series</title>
         <desc lang="es">Series</desc>
     </programme>
@@ -386,7 +386,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>Universal TV</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Universal TV">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="Universal TV">
         <title lang="es">Programación Universal TV</title>
         <desc lang="es">Series</desc>
     </programme>
@@ -395,7 +395,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>USA</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="USA">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="USA">
         <title lang="es">Programación USA</title>
         <desc lang="es">Series</desc>
     </programme>
@@ -405,7 +405,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>Encuentro</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/1200px-Logo_del_canal_Encuentro.svg.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Encuentro">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="Encuentro">
         <title lang="es">Programación Encuentro</title>
         <desc lang="es">Documentales</desc>
     </programme>
@@ -414,7 +414,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>History</display-name>
         <icon src="https://todaystelevisionpr.com/sites/local-satellitetv.com/pages/images/logo-ch-history.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="History">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="History">
         <title lang="es">Programación History</title>
         <desc lang="es">Documentales históricos</desc>
     </programme>
@@ -423,7 +423,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>National Geogrphic</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="National Geogrphic">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="National Geogrphic">
         <title lang="es">Programación National Geographic</title>
         <desc lang="es">Documentales</desc>
     </programme>
@@ -432,7 +432,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>Discovery</display-name>
         <icon src="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Discovery">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="Discovery">
         <title lang="es">Programación Discovery</title>
         <desc lang="es">Documentales</desc>
     </programme>
@@ -441,7 +441,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>Discovery World</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Discovery World">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="Discovery World">
         <title lang="es">Programación Discovery World</title>
         <desc lang="es">Documentales</desc>
     </programme>
@@ -450,8 +450,10 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>Discovery Science</display-name>
         <icon src="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.png"/>
     </channel>
-    <programme start="20250402030000 -0300" stop="20250403030000 -0300" channel="Discovery Science">
+    <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="Discovery Science">
         <title lang="es">Programación Discovery Science</title>
         <desc lang="es">Documentales científicos</desc>
     </programme>
 </tv>
+
+
