@@ -1,40 +1,63 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="4 | A24" tvg-name="A24" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2025_02/large.A24_(2025)_svg.png.1876a98c88e68952de541c4c23db9f20.png" group-title="Noticias",A24
-https://delivery.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="1 | Plex" tvg-name="Plex TVAR" tvg-logo="https://static-00.iconduck.com/assets.00/plex-new-transparent-icon-2048x945-pafhbvdw.png" group-title="Info",Plex TV AR
+/home/plex/Descargas/plex.m3u8
 
-#EXTINF:-1 tvg-id="3 | TN" tvg-name="3 | TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN
-https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="2 | América" tvg-name="América" tvg-logo="https://i.imgur.com/5GxGeDn.png" group-title="Tv abrierta",América
+https://dsr.ride.com.ar/tvmia/an25/chunks.m3u8
 
-#EXTINF:-1 tvg-id="5 | C5N" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo-c5n.svg/2560px-Logo-c5n.svg.png" group-title="Noticias",C5N
-https://delivery.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="3 | TV Pública" tvg-name="TV Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Aire",TV Pública
+https://dsr.ride.com.ar/tvmia/an04/chunks.m3u8
 
-#EXTINF:-1 tvg-id="8 | Crónica HD" tvg-name="Crónica HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="Noticias",Crónica HD
-https://delivery.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="El Nueve" tvg-name="El Nueve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="Aire",El Nueve
+#EXTINF:-1 tvg-id="4 | El Nueve" tvg-name="El Nueve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="Aire",El Nueve
 https://delivery.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Aire",Telefe
+#EXTINF:-1 tvg-id="5 | Telefe" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Aire",Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
-#EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/1200px-Net_TV_logo.png" group-title="Publico General",Net TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="Aire",El Trece
+#EXTINF:-1 tvg-id="6 | El Trece" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="Aire",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="Ciudad Magazine" tvg-name="Ciudad Magazine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="Publico General",Ciudad Magazine
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1 tvg-id="7 | TN" tvg-name="TN" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="Noticias",TN
+https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IP" tvg-name="IP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Informaci%C3%B3n_Periodistica_%282020%29.png/1200px-Informaci%C3%B3n_Periodistica_%282020%29.png" group-title="Noticias",IP
+#EXTINF:-1 tvg-id="8 | LN+" tvg-name="LN+" tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="Noticias",LN+
+https://dsr.ride.com.ar/tvmia/an14/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9 | C5N" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo-c5n.svg/2560px-Logo-c5n.svg.png" group-title="Noticias",C5N
+https://dsr.ride.com.ar/tvmia/an06/playlist.m3u8
+
+#EXTINF:-1 tvg-id="10 | A24" tvg-name="A24" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2025_02/large.A24_(2025)_svg.png.1876a98c88e68952de541c4c23db9f20.png" group-title="Noticias",A24
+https://delivery.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="11 | Crónica HD" tvg-name="Crónica HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="Noticias",Crónica HD
+https://delivery.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="12 | Canal 26" tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="Noticias",Canal 26
+https://dsr.ride.com.ar/tvmia/an15/playlist.m3u8
+
+#EXTINF:-1 tvg-id="13 | IP" tvg-name="IP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Informaci%C3%B3n_Periodistica_%282020%29.png/1200px-Informaci%C3%B3n_Periodistica_%282020%29.png" group-title="Noticias",IP
 https://is-tucuman.cdn.rcs.net.ar/mnp/ip_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGJSsdtCHKfwtj-og-p16eatHzRsV8Y3h7x6G-wZ9IBSz_c_sIQ5QKJPdGalbozZsOzAp0dA38KTRXFXofqJJoNEr4mby9-Xu1Kxsev6BAFMK8y76lCuNSWb0d3EDIGdWJ0UaILxIXx7w/s1600/canalrural-2016.png" group-title="Noticias",Canal Rural
+#EXTINF:-1 tvg-id="14 | Net TV" tvg-name="Net TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/1200px-Net_TV_logo.png" group-title="Publico General",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="15 | Ciudad Magazine" tvg-name="Ciudad Magazine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="Publico General",Ciudad Magazine
+https://dsr.ride.com.ar/tvmia/an12/playlist.m3u8
+
+#EXTINF:-1 tvg-id="17 | Canal Rural" tvg-name="Canal Rural" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGJSsdtCHKfwtj-og-p16eatHzRsV8Y3h7x6G-wZ9IBSz_c_sIQ5QKJPdGalbozZsOzAp0dA38KTRXFXofqJJoNEr4mby9-Xu1Kxsev6BAFMK8y76lCuNSWb0d3EDIGdWJ0UaILxIXx7w/s1600/canalrural-2016.png" group-title="Noticias",Canal Rural
 https://delivery.cdn.rcs.net.ar/mnp/rural_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DeporTV" tvg-name="DeporTV" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_07/g4371.png.3be1545549a870a5c7148aa4436a3f9b.png" group-title="Deportes",DeporTV
+#EXTINF:-1 tvg-id="18 | DeporTV" tvg-name="DeporTV" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_07/g4371.png.3be1545549a870a5c7148aa4436a3f9b.png" group-title="Deportes",DeporTV
 https://delivery.cdn.rcs.net.ar/mnp/dxtv_hls/playlist.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="El Garage TV" tvg-name="El Garage TV" tvg-logo="https://comunidadnautica.com/wp-content/uploads/2021/04/Logotipo-GARAGE-TV-ALTA.png" group-title="Deportes",El Garage TV
 https://is-tucuman.cdn.rcs.net.ar/mnp/garage_hls/playlist.m3u8
