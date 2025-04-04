@@ -14,7 +14,7 @@
 
     <channel id="2 | América">
         <display-name>América</display-name>
-        <icon src="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2025_02/large.A24_(2025)_svg.png.1876a98c88e68952de541c4c23db9f20.png"/>
+        <icon src="https://i.imgur.com/5GxGeDn.png" group-title="Tv abrierta"/>
     </channel>    
     <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="2 | América">
         <title lang="es">América</title>
@@ -25,7 +25,7 @@ Información de actualidad, política, espectáculos y mucho más.".</desc>
 
     <channel id="3 | TV Pública">
         <display-name>TV Pública</display-name>
-        <icon src="TV Pública" tvg-logo="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/TVP.png"/>
+        <icon src="TV Pública" tvg-logo="https://static-00.iconduck.com/assets.00/plex-new-transparent-icon-2048x945-pafhbvdw.png"/>
     </channel>
     <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="3 | TV Pública">
         <title lang="es">TV Pública</title>
