@@ -138,7 +138,7 @@ Con noticias nacionales e internacionales. Canal 26 logró insertarse en el mund
 
     <channel id="14 | Net TV">
         <display-name>Net TV</display-name>
-        <icon src="https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest/scale-to-width-down/1200?cb=20210315130131&amp;path-prefix=es"/>
+        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/1200px-Net_TV_logo.png"/>
     </channel>
     <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="14 | Net TV">
         <title lang="es">Net TV</title>
