@@ -7,7 +7,7 @@
 #EXTINF:-1 tvg-id="2 | América" tvg-name="América" tvg-logo="https://i.imgur.com/5GxGeDn.png" group-title="Tv abrierta",América
 https://dsr.ride.com.ar/tvmia/an25/chunks.m3u8
 
-#EXTINF:-1 tvg-id="3 | TV Pública" tvg-name="TV Pública" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.Y2gwMTAwMDAwMDAwMjE0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_700x525.png.5e5a9690e836d24512121cfbc15a2948.png" group-title="Aire",TV Pública
+#EXTINF:-1 tvg-id="3 | TV Pública" tvg-name="TV Pública" tvg-logo="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/TVP.png" group-title="Aire",TV Pública
 https://dsr.ride.com.ar/tvmia/an04/chunks.m3u8
 
 #EXTINF:-1 tvg-id="4 | El Nueve" tvg-name="El Nueve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="Aire",El Nueve
