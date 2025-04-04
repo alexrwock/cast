@@ -25,7 +25,7 @@ Información de actualidad, política, espectáculos y mucho más.".</desc>
 
     <channel id="3 | TV Pública">
         <display-name>TV Pública</display-name>
-        <icon src="TV Pública" tvg-logo="https://static-00.iconduck.com/assets.00/plex-new-transparent-icon-2048x945-pafhbvdw.png"/>
+        <icon src="TV Pública" tvg-logo="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/TVP.png"/>
     </channel>
     <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="3 | TV Pública">
         <title lang="es">TV Pública</title>
@@ -76,11 +76,11 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
     </programme>
 
     <channel id="8 | LN+">
-        <display-name>TN</display-name>
+        <display-name>LN+</display-name>
         <icon src="https://i.imgur.com/Gj1kqH5.png"/>
     </channel>
     <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="8 | LN+">
-        <title lang="es">Todo Noticias</title>
+        <title lang="es">La Nación+</title>
         <desc lang="es">LN+ EN VIVO las 24 horas. Mirá todos los programas: La Cornisa, Odisea Argentina, El diario de Leuco, Mesa chica y mucho más!</desc>
     <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/LN%2BPoster.png"/>
     </programme>
