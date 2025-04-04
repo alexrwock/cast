@@ -117,7 +117,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
 
     <channel id="12 | Canal 26">
         <display-name>IP</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Informaci%C3%B3n_Periodistica_%282020%29.png/1200px-Informaci%C3%B3n_Periodistica_%282020%29.png"/>
+        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"/>
     </channel>
     <programme start="20250401000000 -0300" stop="20250430235959 -0300" channel="12 | Canal 26">
         <title lang="es">Canal 26</title>
