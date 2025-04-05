@@ -108,12 +108,12 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
 
     <channel id="11">
         <display-name>Crónica HD</display-name>
-        <icon src="https://www.cronica.com.ar/export/sites/cronica/arte/logos/cr-new-logo.svg_945734937.svg"/>
+        <icon src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png"/>
     </channel>
     <programme start="20250405000000 -0300" stop="20250405235959 -0300" channel="11">
         <title lang="es">Crónica. Firme Junto al Pueblo</title>
         <desc lang="es">El canal número 1 de noticias de Argentina. Creador de un estilo informativo único con sus clásicas placas rojas, siempre firme junto al pueblo.</desc>
-    <icon src="https://vod.magma.qaotic.net/media/posters-live/cronica/cronica.jpg"/>
+    <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/AmericaPoster.png"/>
     </programme>
 
     <channel id="12">
