@@ -41,7 +41,7 @@ https://dsr.ride.com.ar/tvmia/an15/playlist.m3u8
 https://is-tucuman.cdn.rcs.net.ar/mnp/ip_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="14" tvg-name="Net TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/1200px-Net_TV_logo.png" group-title="Publico General",Net TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+https://dsr.ride.com.ar/tvmia/an17/playlist.m3u8
 
 #EXTINF:-1 tvg-id="15" tvg-name="Ciudad Magazine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="Publico General",Ciudad Magazine
 https://dsr.ride.com.ar/tvmia/an12/playlist.m3u8
