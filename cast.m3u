@@ -14,10 +14,10 @@ https://dsr.ride.com.ar/tvmia/an04/chunks.m3u8
 https://dsr.ride.com.ar/tvmia/an05/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Canal de Aire",Telefe
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+https://dsr.ride.com.ar/tvmia/an11/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="Canal de Aire",El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-name="TN" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="Noticias",TN
 https://dsr.ride.com.ar/tvmia/an07/playlist.m3u8
@@ -32,7 +32,7 @@ https://dsr.ride.com.ar/tvmia/an06/playlist.m3u8
 #https://delivery.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-name="Crónica HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="Noticias",Crónica HD
-#https://delivery.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
+https://dsr.ride.com.ar/tvmia/an10/playlist.m3u8
 
 #EXTINF:-1 tvg-id="12" tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="Noticias",Canal 26
 https://dsr.ride.com.ar/tvmia/an15/playlist.m3u8
