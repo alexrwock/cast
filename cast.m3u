@@ -2,7 +2,7 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="Plex TVAR" tvg-logo="https://static-00.iconduck.com/assets.00/plex-new-transparent-icon-2048x945-pafhbvdw.png" group-title="Info",Plex TV AR
-/home/plex/Descargas/plex.m3u8
+#/home/plex/Descargas/plex.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="América" tvg-logo="https://i.imgur.com/5GxGeDn.png" group-title="Canal de Aire",América
 https://dsr.ride.com.ar/tvmia/an25/chunks.m3u8
