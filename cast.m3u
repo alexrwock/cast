@@ -11,7 +11,7 @@ https://dsr.ride.com.ar/tvmia/an25/chunks.m3u8
 https://dsr.ride.com.ar/tvmia/an04/chunks.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="El Nueve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="Canal de Aire",El Nueve
-https://delivery.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
+https://dsr.ride.com.ar/tvmia/an05/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Canal de Aire",Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
@@ -20,7 +20,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-name="TN" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="Noticias",TN
-https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
+https://dsr.ride.com.ar/tvmia/an07/playlist.m3u8
 
 #EXTINF:-1 tvg-id="8" tvg-name="LN+" tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="Noticias",LN+
 https://dsr.ride.com.ar/tvmia/an14/playlist.m3u8
@@ -29,7 +29,7 @@ https://dsr.ride.com.ar/tvmia/an14/playlist.m3u8
 https://dsr.ride.com.ar/tvmia/an06/playlist.m3u8
 
 #EXTINF:-1 tvg-id="10" tvg-name="A24" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2025_02/large.A24_(2025)_svg.png.1876a98c88e68952de541c4c23db9f20.png" group-title="Noticias",A24
-https://delivery.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
+#https://delivery.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-name="Crónica HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="Noticias",Crónica HD
 https://delivery.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
@@ -47,10 +47,10 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://dsr.ride.com.ar/tvmia/an12/playlist.m3u8
 
 #EXTINF:-1 tvg-id="17" tvg-name="Canal Rural" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGJSsdtCHKfwtj-og-p16eatHzRsV8Y3h7x6G-wZ9IBSz_c_sIQ5QKJPdGalbozZsOzAp0dA38KTRXFXofqJJoNEr4mby9-Xu1Kxsev6BAFMK8y76lCuNSWb0d3EDIGdWJ0UaILxIXx7w/s1600/canalrural-2016.png" group-title="Noticias",Canal Rural
-https://delivery.cdn.rcs.net.ar/mnp/rural_hls/playlist.m3u8
+#https://delivery.cdn.rcs.net.ar/mnp/rural_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="18" tvg-name="DeporTV" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_07/g4371.png.3be1545549a870a5c7148aa4436a3f9b.png" group-title="Deportes",DeporTV
-https://delivery.cdn.rcs.net.ar/mnp/dxtv_hls/playlist.m3u8
+https://dsr.ride.com.ar/tvmia/an09/playlist.m3u8
 
 
 
