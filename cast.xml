@@ -5,7 +5,7 @@
         <display-name>Plex TVAR</display-name>
         <icon src="https://static-00.iconduck.com/assets.00/plex-new-transparent-icon-2048x945-pafhbvdw.png"/>
     </channel>
-    <programme start="20250405000000 -0300" stop="20250405235959 -0300" channel="1">
+    <programme start="20250405000000 -0300" stop="20250429235959 -0300" channel="1">
         <title lang="es">Plex TVAR</title>
         <desc lang="es">"Descubre Películas y Series de TV y también disfruta de los canales de cocina, noticias, música y mucho más!.</desc>
         <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/PlexPoster.png"/>
@@ -15,7 +15,7 @@
         <display-name>América</display-name>
         <icon src="https://i.imgur.com/5GxGeDn.png"/>
     </channel>    
-    <programme start="20250405000000 -0300" stop="20250405235959 -0300" channel="2">
+    <programme start="20250405000000 -0300" stop="20250429235959 -0300" channel="2">
         <title lang="es">América</title>
         <desc lang="es">"AméricaTV 👉 Noticias, informes y programas 📺 
 Información de actualidad, política, espectáculos y mucho más.".</desc>
@@ -26,7 +26,7 @@ Información de actualidad, política, espectáculos y mucho más.".</desc>
         <display-name>TV Pública</display-name>
         <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/TVP.png"/>
     </channel>
-    <programme start="20250405000000 -0300" stop="20250405235959 -0300" channel="3">
+    <programme start="20250405000000 -0300" stop="20250429235959 -0300" channel="3">
         <title lang="es">TV Pública</title>
         <desc lang="es">TVP ofrece programas, basados en criterios de calidad y equilibrio entre información, formación y entretenimiento.</desc>
         <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/AmericaPoster.png"/>
@@ -36,7 +36,7 @@ Información de actualidad, política, espectáculos y mucho más.".</desc>
         <display-name>El Nueve</display-name>
         <icon src="https://static.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png"/>
     </channel>
-    <programme start="20250405000000 -0300" stop="20250405235959 -0300" channel="4">
+    <programme start="20250405000000 -0300" stop="20250429235959 -0300" channel="4">
         <title lang="es">El Nueve</title>
         <desc lang="es">Canal 9 de Argentina ¡Sumate! Lo mejor de la programación: Bendita TV, Que Mañana, El Show del Problema, Combate, El Show del Problema.. entre otros ¡Están en YouTube! 
 Canal 9 tiene más de 60 años de historia, por su pantalla pasaron éxitos cómo La extraña Dama, Feliz Domingo para la juventud, Si lo sabe Cante, NueveDiario todos marcaron una época de nuestra cultura argentina. 
@@ -48,7 +48,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>Telefe</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png"/>
     </channel>
-    <programme start="20250405000000 -0300" stop="20250405235959 -0300" channel="5">
+    <programme start="20250405000000 -0300" stop="20250429235959 -0300" channel="5">
         <title lang="es">Telefe</title>
         <desc lang="es">Telefe es parte de la historia argentina, casi miembro de cada familia. Es líder en la producción y comercialización de contenidos y servicios audiovisuales de Argentina. A través de los años, ha logrado generar una inmensa empatía emocional y un vínculo cercano con su público. Adapta sus variadas producciones a todos los gustos del grupo familiar desde hace más de 25 años. Cuenta buenas historias, lleva alegría y diversión a cada hogar y brinda la mejor información comprometiéndose así, con generar día a día, año a año, los mejores contenidos para toda la familia.</desc>
         <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/AmericaPoster.png"/>
@@ -58,7 +58,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>El Trece</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png"/>
     </channel>
-    <programme start="20250405000000 -0300" stop="20250405235959 -0300" channel="6">
+    <programme start="20250405000000 -0300" stop="20250429235959 -0300" channel="6">
         <title lang="es">El Trece</title>
         <desc lang="es">Prendete con los mejores momentos de la programación! Viviana en vivo, La noche de Mirtha, Almorzando con Juana, Mujeres argentinas, The balls, Puro Show, Cuestión de peso, Los 8 escalones, La noche perfecta, Telenoche, Arriba argentinos, Mediodía noticias, Síntesis, Resto del mundo, Pasión por el fútbol, Plan TV, entre muchos otros.</desc>
         <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/AmericaPoster.png"/>
@@ -68,7 +68,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>TN</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png"/>
     </channel>
-    <programme start="20250405000000 -0300" stop="20250405235959 -0300" channel="7">
+    <programme start="20250405000000 -0300" stop="20250429235959 -0300" channel="7">
         <title lang="es">Todo Noticias</title>
         <desc lang="es">Todo Noticias. 24 horas de periodismo independiente en televisión. En 1993 Artear lanzó Todo Noticias esta señal informativa que se ha convertido en el líder de Noticias. Sinónimo de información actualizada, confiable, e independiente, TN está presente en todo el territorio nacional gracias a su más completa cobertura.</desc>
     <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/TNPoster.png"/>
@@ -78,7 +78,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>LN+</display-name>
         <icon src="https://i.imgur.com/Gj1kqH5.png"/>
     </channel>
-    <programme start="20250405000000 -0300" stop="20250405235959 -0300" channel="8">
+    <programme start="20250405000000 -0300" stop="20250429235959 -0300" channel="8">
         <title lang="es">La Nación+</title>
         <desc lang="es">LN+ EN VIVO las 24 horas. Mirá todos los programas: La Cornisa, Odisea Argentina, El diario de Leuco, Mesa chica y mucho más!</desc>
     <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/LN%2BPoster.png"/>
@@ -88,7 +88,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>C5N</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo-c5n.svg/2560px-Logo-c5n.svg.png"/>
     </channel>
-    <programme start="20250405000000 -0300" stop="20250405235959 -0300" channel="9">
+    <programme start="20250405000000 -0300" stop="20250429235959 -0300" channel="9">
         <title lang="es">C5N</title>
         <desc lang="es">C5N EN VIVO | Toda la información en un solo lugar - Seguí la transmisión las 24 horas · Lo ÚLTIMO en C5N · ARGENZUELA · DURO DE DOMAR · TELEVISIÓN REGISTRADA.</desc>
     <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/C5nPoster.png"/>
@@ -129,7 +129,7 @@ Con noticias nacionales e internacionales. Canal 26 logró insertarse en el mund
         <display-name>IP</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Informaci%C3%B3n_Periodistica_%282020%29.png/1200px-Informaci%C3%B3n_Periodistica_%282020%29.png"/>
     </channel>
-    <programme start="20250405000000 -0300" stop="20250405235959 -0300" channel="13">
+    <programme start="20250405000000 -0300" stop="20250429235959 -0300" channel="13">
         <title lang="es">IP | Información Periodistica</title>
         <desc lang="es">IP es un espacio para todas las voces. Ofrecemos una mirada federal y la información en el centro para que saques tus propias conclusiones.</desc>
         <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/AmericaPoster.png"/>
@@ -139,7 +139,7 @@ Con noticias nacionales e internacionales. Canal 26 logró insertarse en el mund
         <display-name>Net TV</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/1200px-Net_TV_logo.png"/>
     </channel>
-    <programme start="20250405000000 -0300" stop="20250405235959 -0300" channel="14">
+    <programme start="20250405000000 -0300" stop="20250429235959 -0300" channel="14">
         <title lang="es">Net TV</title>
         <desc lang="es">¡Entretenimiento, información, actualidad, estilo de vida y mucho más!</desc>
         <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/AmericaPoster.png"/>
@@ -149,7 +149,7 @@ Con noticias nacionales e internacionales. Canal 26 logró insertarse en el mund
         <display-name>Ciudad Magazine</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"/>
     </channel>
-    <programme start="20250405000000 -0300" stop="20250405235959 -0300" channel="15">
+    <programme start="20250405000000 -0300" stop="20250429235959 -0300" channel="15">
         <title lang="es">Ciudad Magazine</title>
         <desc lang="es">Ponete al día con la mejor información del espectáculo y entretenimiento de Argentina.</desc>
         <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/AmericaPoster.png"/>
@@ -159,7 +159,7 @@ Con noticias nacionales e internacionales. Canal 26 logró insertarse en el mund
         <display-name>Canal Rural</display-name>
         <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGJSsdtCHKfwtj-og-p16eatHzRsV8Y3h7x6G-wZ9IBSz_c_sIQ5QKJPdGalbozZsOzAp0dA38KTRXFXofqJJoNEr4mby9-Xu1Kxsev6BAFMK8y76lCuNSWb0d3EDIGdWJ0UaILxIXx7w/s1600/canalrural-2016.png"/>
     </channel>
-    <programme start="20250405000000 -0300" stop="20250405235959 -0300" channel="17">
+    <programme start="20250405000000 -0300" stop="20250429235959 -0300" channel="17">
         <title lang="es">Canal Rural</title>
         <desc lang="es">Contenido rural y agropecuario. Canal Rural es la única señal de cable vía satélite de América Latina dedicada al sector agropecuario y a la producción agroindustrial y alimenticia.</desc>
         <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/AmericaPoster.png"/>
@@ -169,7 +169,7 @@ Con noticias nacionales e internacionales. Canal 26 logró insertarse en el mund
         <display-name>DeporTV</display-name>
         <icon src="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_07/g4371.png.3be1545549a870a5c7148aa4436a3f9b.png"/>
     </channel>
-    <programme start="20250405000000 -0300" stop="20250405235959 -0300" channel="18">
+    <programme start="20250405000000 -0300" stop="20250429235959 -0300" channel="18">
         <title lang="es">Programación DeporTV</title>
         <desc lang="es">24 horas junto al canal público de deportes de la República Argentina.</desc>
         <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/AmericaPoster.png"/>        
