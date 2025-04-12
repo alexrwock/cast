@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="TVAR" generator-info-url="https://example.com">
-    <!-- Canales de Noticias
-    <channel id="1">
+       <channel id="1">
         <display-name>Plex TVAR</display-name>
         <icon src="https://static-00.iconduck.com/assets.00/plex-new-transparent-icon-2048x945-pafhbvdw.png"/>
     </channel>
@@ -11,7 +10,6 @@
         <desc lang="es">"Descubre Películas y Series de TV y también disfruta de los canales de cocina, noticias, música y mucho más!.</desc>
         <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/PlexPoster.png"/>
     </programme>
-    -->
 
     <channel id="2">
         <display-name>América</display-name>
