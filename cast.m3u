@@ -2,10 +2,11 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="Plex TVAR" tvg-logo="https://static-00.iconduck.com/assets.00/plex-new-transparent-icon-2048x945-pafhbvdw.png" group-title="Info",Plex TV AR
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-66629c32346b86608532dbe7/variant.m3u8?x-plex-token=54yy8Ze5rd3Ysitoi7JW&x-plex-advertising-identifier=&x-plex-client-identifier=e2r40q3gn7flre4gh0k5v7az&x-plex-playback-id=p_bcc72103-3690-4303-b4b8-0fb01d9df169&x-plex-playback-session-id=2c108919-9339-45e3-8fef-67dc65418f56&x-plex-session-id=720e1f5f-d2af-42b7-8385-5ba78b9f4433&x-plex-device=Windows&x-plex-device-name=Chrome&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=standalone&x-plex-platform=Chrome&x-plex-platform-version=135.0&x-plex-product=Plex+Web&x-plex-device-screen-resolution=1920x911%2C1920x1080&x-plex-device-vendor=&x-plex-version=4.145.1&x-plex-provider-streaming-start=1744482394&url=b6b8c7ef1482fbe3485e4050afad8ec8-79e01f68f2b9ebff0552c98156a6f140a4ef2d8e032791c1156f386364e566d44b0d904d1d2d07bf8b08a33d6f282ff8f57cbd960b7e563043c6092f97c28aef754c6b5380a156eea2c8bee8bd9cc0d794b3764ea50e2aa7b02eef07cd0a9a3aa37f751c7e9b6a2f89a7b17a92a98d6b799aea04f2cc3d0ef0022860d465f8955710d847fe4ba80df360a2a7f803a3401c913be97862a10b4103a4cce6feee92
 #/home/plex/Descargas/plex.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="América" tvg-logo="https://i.imgur.com/5GxGeDn.png" group-title="Canal de Aire",América
-https://dsr.ride.com.ar/tvmia/an25/chunks.m3u8
+https://is-tucuman.cdn.rcs.net.ar/mnp/america/output.mpd
 
 #EXTINF:-1 tvg-id="3" tvg-name="TV Pública" tvg-logo="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/TVP.png" group-title="Canal de Aire",TV Pública
 https://dsr.ride.com.ar/tvmia/an04/chunks.m3u8
@@ -14,10 +15,10 @@ https://dsr.ride.com.ar/tvmia/an04/chunks.m3u8
 https://dsr.ride.com.ar/tvmia/an05/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Canal de Aire",Telefe
-https://dsr.ride.com.ar/tvmia/an11/playlist.m3u8
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="Canal de Aire",El Trece
-https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-name="TN" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="Noticias",TN
 https://dsr.ride.com.ar/tvmia/an07/playlist.m3u8
@@ -41,10 +42,10 @@ https://dsr.ride.com.ar/tvmia/an15/playlist.m3u8
 https://is-tucuman.cdn.rcs.net.ar/mnp/ip_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="14" tvg-name="Net TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/1200px-Net_TV_logo.png" group-title="Publico General",Net TV
-https://dsr.ride.com.ar/tvmia/an17/playlist.m3u8
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="15" tvg-name="Ciudad Magazine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="Publico General",Ciudad Magazine
-https://dsr.ride.com.ar/tvmia/an12/playlist.m3u8
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 #EXTINF:-1 tvg-id="17" tvg-name="Canal Rural" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGJSsdtCHKfwtj-og-p16eatHzRsV8Y3h7x6G-wZ9IBSz_c_sIQ5QKJPdGalbozZsOzAp0dA38KTRXFXofqJJoNEr4mby9-Xu1Kxsev6BAFMK8y76lCuNSWb0d3EDIGdWJ0UaILxIXx7w/s1600/canalrural-2016.png" group-title="Noticias",Canal Rural
 #https://delivery.cdn.rcs.net.ar/mnp/rural_hls/playlist.m3u8
