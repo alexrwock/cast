@@ -53,6 +53,9 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="DeporTV" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_07/g4371.png.3be1545549a870a5c7148aa4436a3f9b.png" group-title="Deportes",DeporTV
 https://dsr.ride.com.ar/tvmia/an09/playlist.m3u8
 
+#EXTINF:-1 tvg-id="19" tvg-name="ESPN" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_05/small.555726526_es(1).png.ed036ff423018bec88e6e260c5fa541c.png" group-title="Deportes",ESPN PREMIUM
+https://5b757359e96b.entrypoint.cloud.wowza.com/app-6t316MVH/ngrp:b3fe30ee_all/playlist.m3u8
+
 # hasta acá
 
 
