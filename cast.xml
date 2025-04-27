@@ -175,6 +175,16 @@ Con noticias nacionales e internacionales. Canal 26 logró insertarse en el mund
         <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/AmericaPoster.png"/>        
     </programme>
 
+    <channel id="19">
+        <display-name>ESPN PREMIUM</display-name>
+        <icon src="https://cdn.storage.foromedios.com/monthly_2022_05/small.555726526_es(1).png.ed036ff423018bec88e6e260c5fa541c.png"/>
+    </channel>
+    <programme start="20250405000000 -0300" stop="20250429235959 -0300" channel="19">
+        <title lang="es">ESPN PREMIUM</title>
+        <desc lang="es">RIVER vs BOCA.</desc>
+        <icon src="https://pbs.twimg.com/media/GpV7RHQXgAAtkvb.jpg"/>        
+    </programme>
+
 
 
     
