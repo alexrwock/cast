@@ -48,7 +48,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>Telefe</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png"/>
     </channel>
-    <programme start="20250405000000 -0300" stop="20250429235959 -0300" channel="5">
+    <programme start="20250429000000 -0300" stop="20250429235959 -0300" channel="5">
         <title lang="es">Telefe</title>
         <desc lang="es">Telefe es parte de la historia argentina, casi miembro de cada familia. Es líder en la producción y comercialización de contenidos y servicios audiovisuales de Argentina. A través de los años, ha logrado generar una inmensa empatía emocional y un vínculo cercano con su público. Adapta sus variadas producciones a todos los gustos del grupo familiar desde hace más de 25 años. Cuenta buenas historias, lleva alegría y diversión a cada hogar y brinda la mejor información comprometiéndose así, con generar día a día, año a año, los mejores contenidos para toda la familia.</desc>
         <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/AmericaPoster.png"/>
@@ -58,7 +58,7 @@ Día a día todos y todas los que hacemos Canal 9 buscamos acompañarte en tu ca
         <display-name>El Trece</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png"/>
     </channel>
-    <programme start="20250405000000 -0300" stop="20250429235959 -0300" channel="6">
+    <programme start="20250429000000 -0300" stop="20250429235959 -0300" channel="6">
         <title lang="es">El Trece</title>
         <desc lang="es">Prendete con los mejores momentos de la programación! Viviana en vivo, La noche de Mirtha, Almorzando con Juana, Mujeres argentinas, The balls, Puro Show, Cuestión de peso, Los 8 escalones, La noche perfecta, Telenoche, Arriba argentinos, Mediodía noticias, Síntesis, Resto del mundo, Pasión por el fútbol, Plan TV, entre muchos otros.</desc>
         <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/AmericaPoster.png"/>
@@ -139,7 +139,7 @@ Con noticias nacionales e internacionales. Canal 26 logró insertarse en el mund
         <display-name>Net TV</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/1200px-Net_TV_logo.png"/>
     </channel>
-    <programme start="20250405000000 -0300" stop="20250429235959 -0300" channel="14">
+    <programme start="20250429000000 -0300" stop="20250429235959 -0300" channel="14">
         <title lang="es">Net TV</title>
         <desc lang="es">¡Entretenimiento, información, actualidad, estilo de vida y mucho más!</desc>
         <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/AmericaPoster.png"/>
@@ -149,7 +149,7 @@ Con noticias nacionales e internacionales. Canal 26 logró insertarse en el mund
         <display-name>Ciudad Magazine</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"/>
     </channel>
-    <programme start="20250405000000 -0300" stop="20250429235959 -0300" channel="15">
+    <programme start="20250429000000 -0300" stop="20250429235959 -0300" channel="15">
         <title lang="es">Ciudad Magazine</title>
         <desc lang="es">Ponete al día con la mejor información del espectáculo y entretenimiento de Argentina.</desc>
         <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/AmericaPoster.png"/>
@@ -179,7 +179,7 @@ Con noticias nacionales e internacionales. Canal 26 logró insertarse en el mund
         <display-name>ESPN PREMIUM</display-name>
         <icon src="https://cdn.storage.foromedios.com/monthly_2022_05/small.555726526_es(1).png.ed036ff423018bec88e6e260c5fa541c.png"/>
     </channel>
-    <programme start="20250405000000 -0300" stop="20250429235959 -0300" channel="19">
+    <programme start="20250429000000 -0300" stop="20250429235959 -0300" channel="19">
         <title lang="es">ESPN PREMIUM</title>
         <desc lang="es">RIVER vs BOCA.</desc>
         <icon src="https://pbs.twimg.com/media/GpV7RHQXgAAtkvb.jpg"/>        
