@@ -3,7 +3,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="Plex TVAR" tvg-logo="https://static-00.iconduck.com/assets.00/plex-new-transparent-icon-2048x945-pafhbvdw.png" group-title="Info",Plex TV AR
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-66629c32346b86608532dbe7/variant.m3u8?x-plex-token=54yy8Ze5rd3Ysitoi7JW&x-plex-advertising-identifier=&x-plex-client-identifier=e2r40q3gn7flre4gh0k5v7az&x-plex-playback-id=p_bcc72103-3690-4303-b4b8-0fb01d9df169&x-plex-playback-session-id=2c108919-9339-45e3-8fef-67dc65418f56&x-plex-session-id=720e1f5f-d2af-42b7-8385-5ba78b9f4433&x-plex-device=Windows&x-plex-device-name=Chrome&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=standalone&x-plex-platform=Chrome&x-plex-platform-version=135.0&x-plex-product=Plex+Web&x-plex-device-screen-resolution=1920x911%2C1920x1080&x-plex-device-vendor=&x-plex-version=4.145.1&x-plex-provider-streaming-start=1744482394&url=b6b8c7ef1482fbe3485e4050afad8ec8-79e01f68f2b9ebff0552c98156a6f140a4ef2d8e032791c1156f386364e566d44b0d904d1d2d07bf8b08a33d6f282ff8f57cbd960b7e563043c6092f97c28aef754c6b5380a156eea2c8bee8bd9cc0d794b3764ea50e2aa7b02eef07cd0a9a3aa37f751c7e9b6a2f89a7b17a92a98d6b799aea04f2cc3d0ef0022860d465f8955710d847fe4ba80df360a2a7f803a3401c913be97862a10b4103a4cce6feee92
-http://172.17.0.1:1935/espn-premium/_definst_/hierba73W_720p/playlist.m3u8
+http://172.17.0.1:1935/espn-premium/_definst_/hierba73W/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="América" tvg-logo="https://i.imgur.com/5GxGeDn.png" group-title="Canal de Aire",América
 https://is-tucuman.cdn.rcs.net.ar/mnp/america/output.mpd
