@@ -5,7 +5,7 @@
         <display-name>Plex TV AR</display-name>
         <icon src="https://static-00.iconduck.com/assets.00/plex-new-transparent-icon-2048x945-pafhbvdw.png"/>
     </channel>
-    <programme start="20250504000000 -0300" stop="20250505000000 -0300" channel="1">
+    <programme start="20250504000000 -0300" stop="20250504220000 -0300" channel="1">
         <title lang="es">Plex AR</title>
         <desc lang="es">Descubre Películas, Series y también disfruta de los EVENTOS DEPORTIVOS MÁS IMPORTANTES DE LA SEMANA!. Noticias, Famosos, Cocina, Música y mucho más!.</desc>
         <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/f1-poster.jpg"/>
