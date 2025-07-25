@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="TVAR" generator-info-url="https://example.com">
+
+    <channel id="14">
+        <display-name>El Catorce</display-name>
+        <icon src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png"/>
+    </channel>
+    <programme start="20250724000000 -0300" stop="20250726235959 -0300" channel="14">
+        <title lang="es">El Catorce AR</title>
+        <desc lang="es">Programación destacada de El Trece: noticieros, novelas, concursos y los programas más vistos del prime time argentino.</desc>
+        <icon src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png"/>
+    </programme>
+
+</tv>
