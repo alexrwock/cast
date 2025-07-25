@@ -2,21 +2,11 @@
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="TVAR" generator-info-url="https://example.com">
 
-    <channel id="9">
-        <display-name>Canal 9</display-name>
-        <icon src="https://static.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png"/>
-    </channel>
-    <programme start="20250724000000 -0300" stop="20250726235959 -0300" channel="9">
-        <title lang="es">Canal 9 AR</title>
-        <desc lang="es">Programación general: noticias, entretenimiento, películas, y transmisiones en vivo de actualidad para todo el país.</desc>
-        <icon src="https://static.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png"/>
-    </programme>
-
     <channel id="13">
         <display-name>El Trece</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png"/>
     </channel>
-    <programme start="20250724000000 -0300" stop="20250726235959 -0300" channel="13">
+    <programme start="20250725000000 -0300" stop="20250727235959 -0300" channel="13">
         <title lang="es">El Trece AR</title>
         <desc lang="es">Programación destacada de El Trece: noticieros, novelas, concursos y los programas más vistos del prime time argentino.</desc>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png"/>
