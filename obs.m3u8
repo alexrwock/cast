@@ -1,0 +1,18 @@
+#EXTM3U
+# Tres perfiles falsos: 576p, 700p y 1080p
+# Todos apuntan al mismo archivo de segmentos (tracks-v1a1/mono.m3u8)
+
+# Perfil “576p”
+# Bandwidth bajo para que players con poco ancho de banda crean que pueden usarlo
+# (aunque el contenido real no cambia)
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1070000,BANDWIDTH=1340000,RESOLUTION=1024x576,FRAME-RATE=25.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
+http://127.0.0.1:8080/hls/screen.m3u8
+
+# Perfil “700p”
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2960000,BANDWIDTH=3700000,RESOLUTION=1244x700,FRAME-RATE=25.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
+http://127.0.0.1:8080/hls/screen.m3u8
+
+# Perfil “1080p”
+# Bandwidth más alto, para que los players con buena conexión lo elijan
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=3930000,BANDWIDTH=4910000,RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.4d4028,mp4a.40.2",CLOSED-CAPTIONS=NONE
+http://127.0.0.1:8080/hls/screen.m3u8
