@@ -23,7 +23,7 @@
     </programme>
 
     <channel id="15">
-        <display-name>Plex Argentina</display-name>
+        <display-name>🇦🇷 Plex Argentina</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Plex_logo_2022_full-color-on-black.svg/1200px-Plex_logo_2022_full-color-on-black.svg.png"/>
     </channel>
     <programme start="20250726000000 -0300" stop="20250728235959 -0300" channel="15">
