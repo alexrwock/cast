@@ -29,7 +29,7 @@
     <programme start="20250726000000 -0300" stop="20250728235959 -0300" channel="15">
         <title lang="es">Plex AR</title>
         <desc lang="es">Es hora de la TV en VIVO! Ahora vas a ver los EVENTOS DEPORTIVOS MÁS IMPORTANTES DE LA SEMANA! + Noticias, Famosos, Cocina, Música y mucho más!.</desc>
-        <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/f1-poster.jpg"/>
+        <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/PlexPoster.png"/>
     </programme>
 
 </tv>
