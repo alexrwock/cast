@@ -22,4 +22,14 @@
         <icon src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png"/>
     </programme>
 
+    <channel id="15">
+        <display-name>El Catorce</display-name>
+        <icon src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png"/>
+    </channel>
+    <programme start="20250726000000 -0300" stop="20250728235959 -0300" channel="15">
+        <title lang="es">El Quince AR</title>
+        <desc lang="es">Programación destacada de El Catorce: noticieros, novelas, concursos y los programas más vistos del prime time argentino.</desc>
+        <icon src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png"/>
+    </programme>
+
 </tv>
