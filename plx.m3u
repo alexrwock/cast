@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="15" tvg-name="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="Aire",El Quince
+https://raw.githubusercontent.com/alexrwock/cast/refs/heads/main/obs1.m3u8
