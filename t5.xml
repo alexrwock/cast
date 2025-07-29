@@ -2,14 +2,14 @@
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="TVAR" generator-info-url="https://example.com">
 
-    <channel id="13">
-        <display-name>El Trece</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png"/>
+    <channel id="15">
+        <display-name>🇦🇷 Plex Argentina</display-name>
+        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Plex_logo_2022_full-color-on-black.svg/1200px-Plex_logo_2022_full-color-on-black.svg.png"/>
     </channel>
-    <programme start="20250725000000 -0300" stop="20250727235959 -0300" channel="13">
-        <title lang="es">El Trece AR</title>
-        <desc lang="es">Programación destacada de El Trece: noticieros, novelas, concursos y los programas más vistos del prime time argentino.</desc>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png"/>
+    <programme start="20250727000000 -0300" stop="20250730235959 -0300" channel="15">
+        <title lang="es">🇦🇷 Plex AR</title>
+        <desc lang="es">🇦🇷 Es hora de la TV en VIVO! Ahora vas a ver los EVENTOS DEPORTIVOS MÁS IMPORTANTES DE LA SEMANA! + Noticias, Famosos, Cocina, Música y mucho más!.</desc>
+        <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/PlexPoster.png"/>
     </programme>
 
 </tv>
