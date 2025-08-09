@@ -6,7 +6,7 @@
         <display-name>🇦🇷 Plex Argentina</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Plex_logo_2022_full-color-on-black.svg/1200px-Plex_logo_2022_full-color-on-black.svg.png"/>
     </channel>
-    <programme start="20250809000000 -0300" stop="20250811235959 -0300" channel="15">
+    <programme start="20250809000000 -0300" stop="20250811235958 -0300" channel="15">
         <title lang="es">🇦🇷 Plex AR</title>
         <desc lang="es">🇦🇷 Es hora de la TV en VIVO! Ahora vas a ver los EVENTOS DEPORTIVOS MÁS IMPORTANTES DE LA SEMANA! + Noticias, Famosos, Cocina, Música y mucho más!.</desc>
         <icon src="https://raw.githubusercontent.com/alexrwock/Img/refs/heads/main/PlexPoster.png"/>
